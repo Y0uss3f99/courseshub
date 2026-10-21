@@ -1,0 +1,4175 @@
+{
+  "courses": [
+    {
+      "id": "1",
+      "title": "Starting SEO as your Home",
+      "slug": "starting-seo-as-your-home",
+      "description": "Learn the fundamentals of SEO and understand how search engines work. Build a strong foundation for improving website visibility and organic traffic.",
+      "thumbnail": "https://images.unsplash.com/photo-1562577309-4932fdd64cd1?auto=format&fit=crop&w=1200&q=80",
+      "previewVideo": "https://www.youtube.com/embed/xsVTqzratPs",
+      "instructor": {
+        "id": 1,
+        "name": "Sarah Johnson",
+        "avatar": "https://i.pravatar.cc/150?img=47"
+      },
+      "duration": "3 weeks",
+      "lessonsCount": 8,
+      "enrolledStudents": 65,
+      "language": "English",
+      "level": "Beginner",
+      "progress": 63,
+      "rating": 4.8,
+      "weeks": [
+        {
+          "id": 1,
+          "title": "Week 1-4",
+          "lessons": [
+            {
+              "id": 1,
+              "title": "Introduction",
+              "duration": "10 min",
+              "videoUrl": "https://www.youtube.com/embed/xsVTqzratPs",
+              "videoId": "xsVTqzratPs",
+              "questions": 0,
+              "completed": true
+            },
+            {
+              "id": 2,
+              "title": "Course Overview",
+              "duration": "15 min",
+              "videoUrl": "https://www.youtube.com/embed/xsVTqzratPs",
+              "videoId": "xsVTqzratPs",
+              "questions": 2,
+              "completed": true
+            },
+            {
+              "id": 3,
+              "title": "Course Exercise",
+              "duration": "20 min",
+              "videoUrl": "https://www.youtube.com/embed/xsVTqzratPs",
+              "videoId": "xsVTqzratPs",
+              "questions": 3,
+              "completed": true
+            },
+            {
+              "id": 4,
+              "title": "Code Editor Installation",
+              "duration": "12 min",
+              "videoUrl": "https://www.youtube.com/embed/xsVTqzratPs",
+              "videoId": "xsVTqzratPs",
+              "questions": 1,
+              "completed": false
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "title": "Week 5-8",
+          "lessons": [
+            {
+              "id": 5,
+              "title": "Defining Functions",
+              "duration": "18 min",
+              "videoUrl": "https://www.youtube.com/embed/xsVTqzratPs",
+              "videoId": "xsVTqzratPs",
+              "questions": 2,
+              "completed": false
+            },
+            {
+              "id": 6,
+              "title": "Function Parameters",
+              "duration": "16 min",
+              "videoUrl": "https://www.youtube.com/embed/xsVTqzratPs",
+              "videoId": "xsVTqzratPs",
+              "questions": 2,
+              "completed": false
+            },
+            {
+              "id": 7,
+              "title": "Global Variables and Scope",
+              "duration": "22 min",
+              "videoUrl": "https://www.youtube.com/embed/xsVTqzratPs",
+              "videoId": "xsVTqzratPs",
+              "questions": 3,
+              "completed": false
+            },
+            {
+              "id": 8,
+              "title": "Constants",
+              "duration": "14 min",
+              "videoUrl": "https://www.youtube.com/embed/xsVTqzratPs",
+              "videoId": "xsVTqzratPs",
+              "questions": 1,
+              "completed": false
+            }
+          ]
+        }
+      ],
+      "materials": [
+        {
+          "id": 1,
+          "title": "Course Exercise",
+          "type": "PDF",
+          "url": "#"
+        },
+        {
+          "id": 2,
+          "title": "SEO Cheat Sheet",
+          "type": "PDF",
+          "url": "#"
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "title": "Modern JavaScript From Zero",
+      "slug": "modern-javascript-from-zero",
+      "description": "Master modern JavaScript fundamentals and build a solid foundation for developing interactive web applications.",
+      "thumbnail": "https://images.unsplash.com/photo-1627398242454-45a1465c2479?auto=format&fit=crop&w=1200&q=80",
+      "previewVideo": "https://www.youtube.com/embed/W6NZfCO5SIk",
+      "instructor": {
+        "id": 2,
+        "name": "Michael Brown",
+        "avatar": "https://i.pravatar.cc/150?img=12"
+      },
+      "duration": "4 weeks",
+      "lessonsCount": 12,
+      "enrolledStudents": 128,
+      "language": "English",
+      "level": "Beginner",
+      "progress": 42,
+      "rating": 4.9,
+      "weeks": [
+        {
+          "id": 1,
+          "title": "Week 1-4",
+          "lessons": [
+            {
+              "id": 9,
+              "title": "JavaScript Introduction",
+              "duration": "12 min",
+              "videoUrl": "https://www.youtube.com/embed/W6NZfCO5SIk",
+              "videoId": "W6NZfCO5SIk",
+              "questions": 2,
+              "completed": true
+            },
+            {
+              "id": 10,
+              "title": "Variables and Data Types",
+              "duration": "20 min",
+              "videoUrl": "https://www.youtube.com/embed/W6NZfCO5SIk",
+              "videoId": "W6NZfCO5SIk",
+              "questions": 3,
+              "completed": true
+            },
+            {
+              "id": 11,
+              "title": "Functions",
+              "duration": "18 min",
+              "videoUrl": "https://www.youtube.com/embed/W6NZfCO5SIk",
+              "videoId": "W6NZfCO5SIk",
+              "questions": 2,
+              "completed": false
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "title": "Week 5-8",
+          "lessons": [
+            {
+              "id": 12,
+              "title": "Arrays",
+              "duration": "21 min",
+              "videoUrl": "https://www.youtube.com/embed/W6NZfCO5SIk",
+              "videoId": "W6NZfCO5SIk",
+              "questions": 3,
+              "completed": false
+            },
+            {
+              "id": 13,
+              "title": "Objects",
+              "duration": "19 min",
+              "videoUrl": "https://www.youtube.com/embed/W6NZfCO5SIk",
+              "videoId": "W6NZfCO5SIk",
+              "questions": 2,
+              "completed": false
+            },
+            {
+              "id": 14,
+              "title": "Array Methods",
+              "duration": "25 min",
+              "videoUrl": "https://www.youtube.com/embed/W6NZfCO5SIk",
+              "videoId": "W6NZfCO5SIk",
+              "questions": 4,
+              "completed": false
+            }
+          ]
+        }
+      ],
+      "materials": [
+        {
+          "id": 3,
+          "title": "JavaScript Notes",
+          "type": "PDF",
+          "url": "#"
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "title": "React Development Masterclass",
+      "slug": "react-development-masterclass",
+      "description": "Build modern and scalable React applications using components, hooks, state management and best practices.",
+      "thumbnail": "https://images.unsplash.com/photo-1633356122544-f134324a6cee?auto=format&fit=crop&w=1200&q=80",
+      "previewVideo": "https://www.youtube.com/embed/SqcY0GlETPk",
+      "instructor": {
+        "id": 3,
+        "name": "David Wilson",
+        "avatar": "https://i.pravatar.cc/150?img=33"
+      },
+      "duration": "5 weeks",
+      "lessonsCount": 15,
+      "enrolledStudents": 214,
+      "language": "English",
+      "level": "Intermediate",
+      "progress": 28,
+      "rating": 4.7,
+      "weeks": [
+        {
+          "id": 1,
+          "title": "Week 1-4",
+          "lessons": [
+            {
+              "id": 15,
+              "title": "React Introduction",
+              "duration": "15 min",
+              "videoUrl": "https://www.youtube.com/embed/SqcY0GlETPk",
+              "videoId": "SqcY0GlETPk",
+              "questions": 2,
+              "completed": true
+            },
+            {
+              "id": 16,
+              "title": "Components",
+              "duration": "20 min",
+              "videoUrl": "https://www.youtube.com/embed/SqcY0GlETPk",
+              "videoId": "SqcY0GlETPk",
+              "questions": 3,
+              "completed": false
+            },
+            {
+              "id": 17,
+              "title": "Props and State",
+              "duration": "25 min",
+              "videoUrl": "https://www.youtube.com/embed/SqcY0GlETPk",
+              "videoId": "SqcY0GlETPk",
+              "questions": 4,
+              "completed": false
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "title": "Week 5-8",
+          "lessons": [
+            {
+              "id": 18,
+              "title": "useState",
+              "duration": "18 min",
+              "videoUrl": "https://www.youtube.com/embed/SqcY0GlETPk",
+              "videoId": "SqcY0GlETPk",
+              "questions": 2,
+              "completed": false
+            },
+            {
+              "id": 19,
+              "title": "useEffect",
+              "duration": "22 min",
+              "videoUrl": "https://www.youtube.com/embed/SqcY0GlETPk",
+              "videoId": "SqcY0GlETPk",
+              "questions": 3,
+              "completed": false
+            },
+            {
+              "id": 20,
+              "title": "Custom Hooks",
+              "duration": "24 min",
+              "videoUrl": "https://www.youtube.com/embed/SqcY0GlETPk",
+              "videoId": "SqcY0GlETPk",
+              "questions": 2,
+              "completed": false
+            }
+          ]
+        }
+      ],
+      "materials": [
+        {
+          "id": 4,
+          "title": "React Cheat Sheet",
+          "type": "PDF",
+          "url": "#"
+        },
+        {
+          "id": 5,
+          "title": "React Exercises",
+          "type": "ZIP",
+          "url": "#"
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "title": "Next.js Full Course",
+      "slug": "nextjs-full-course",
+      "description": "Learn how to build production-ready applications with Next.js, routing, server rendering, data fetching and authentication.",
+      "thumbnail": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=1200&q=80",
+      "previewVideo": "https://www.youtube.com/embed/wm5gMKuwSYk",
+      "instructor": {
+        "id": 4,
+        "name": "James Anderson",
+        "avatar": "https://i.pravatar.cc/150?img=68"
+      },
+      "duration": "6 weeks",
+      "lessonsCount": 18,
+      "enrolledStudents": 187,
+      "language": "English",
+      "level": "Advanced",
+      "progress": 17,
+      "rating": 4.8,
+      "weeks": [
+        {
+          "id": 1,
+          "title": "Week 1-4",
+          "lessons": [
+            {
+              "id": 21,
+              "title": "Next.js Introduction",
+              "duration": "15 min",
+              "videoUrl": "https://www.youtube.com/embed/wm5gMKuwSYk",
+              "videoId": "wm5gMKuwSYk",
+              "questions": 2,
+              "completed": true
+            },
+            {
+              "id": 22,
+              "title": "App Router",
+              "duration": "23 min",
+              "videoUrl": "https://www.youtube.com/embed/wm5gMKuwSYk",
+              "videoId": "wm5gMKuwSYk",
+              "questions": 3,
+              "completed": false
+            },
+            {
+              "id": 23,
+              "title": "Layouts and Pages",
+              "duration": "20 min",
+              "videoUrl": "https://www.youtube.com/embed/wm5gMKuwSYk",
+              "videoId": "wm5gMKuwSYk",
+              "questions": 2,
+              "completed": false
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "title": "Week 5-8",
+          "lessons": [
+            {
+              "id": 24,
+              "title": "Server Components",
+              "duration": "25 min",
+              "videoUrl": "https://www.youtube.com/embed/wm5gMKuwSYk",
+              "videoId": "wm5gMKuwSYk",
+              "questions": 3,
+              "completed": false
+            },
+            {
+              "id": 25,
+              "title": "Data Fetching",
+              "duration": "27 min",
+              "videoUrl": "https://www.youtube.com/embed/wm5gMKuwSYk",
+              "videoId": "wm5gMKuwSYk",
+              "questions": 4,
+              "completed": false
+            },
+            {
+              "id": 26,
+              "title": "Authentication",
+              "duration": "30 min",
+              "videoUrl": "https://www.youtube.com/embed/wm5gMKuwSYk",
+              "videoId": "wm5gMKuwSYk",
+              "questions": 3,
+              "completed": false
+            }
+          ]
+        }
+      ],
+      "materials": [
+        {
+          "id": 6,
+          "title": "Next.js Documentation",
+          "type": "PDF",
+          "url": "#"
+        }
+      ]
+    },
+    {
+      "id": "5",
+      "title": "UI UX Design Fundamentals",
+      "slug": "ui-ux-design-fundamentals",
+      "description": "Learn the principles of user interface and user experience design and create beautiful digital products.",
+      "thumbnail": "https://images.unsplash.com/photo-1561070791-2526d30994b5?auto=format&fit=crop&w=1200&q=80",
+      "previewVideo": "https://www.youtube.com/embed/c9Wg6Cb_YlU",
+      "instructor": {
+        "id": 5,
+        "name": "Emily Davis",
+        "avatar": "https://i.pravatar.cc/150?img=44"
+      },
+      "duration": "4 weeks",
+      "lessonsCount": 10,
+      "enrolledStudents": 96,
+      "language": "English",
+      "level": "Beginner",
+      "progress": 71,
+      "rating": 4.6,
+      "weeks": [
+        {
+          "id": 1,
+          "title": "Week 1-4",
+          "lessons": [
+            {
+              "id": 27,
+              "title": "Design Principles",
+              "duration": "14 min",
+              "videoUrl": "https://www.youtube.com/embed/c9Wg6Cb_YlU",
+              "videoId": "c9Wg6Cb_YlU",
+              "questions": 2,
+              "completed": true
+            },
+            {
+              "id": 28,
+              "title": "Color Theory",
+              "duration": "18 min",
+              "videoUrl": "https://www.youtube.com/embed/c9Wg6Cb_YlU",
+              "videoId": "c9Wg6Cb_YlU",
+              "questions": 2,
+              "completed": true
+            },
+            {
+              "id": 29,
+              "title": "Typography",
+              "duration": "16 min",
+              "videoUrl": "https://www.youtube.com/embed/c9Wg6Cb_YlU",
+              "videoId": "c9Wg6Cb_YlU",
+              "questions": 2,
+              "completed": true
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "title": "Week 5-8",
+          "lessons": [
+            {
+              "id": 30,
+              "title": "Wireframing",
+              "duration": "20 min",
+              "videoUrl": "https://www.youtube.com/embed/c9Wg6Cb_YlU",
+              "videoId": "c9Wg6Cb_YlU",
+              "questions": 3,
+              "completed": false
+            },
+            {
+              "id": 31,
+              "title": "Responsive Design",
+              "duration": "22 min",
+              "videoUrl": "https://www.youtube.com/embed/c9Wg6Cb_YlU",
+              "videoId": "c9Wg6Cb_YlU",
+              "questions": 3,
+              "completed": false
+            }
+          ]
+        }
+      ],
+      "materials": [
+        {
+          "id": 7,
+          "title": "UI UX Resources",
+          "type": "PDF",
+          "url": "#"
+        }
+      ]
+    },
+    {
+      "id": "6",
+      "title": "Digital Marketing Essentials",
+      "slug": "digital-marketing-essentials",
+      "description": "Understand digital marketing strategies, social media marketing, content marketing and analytics.",
+      "thumbnail": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?auto=format&fit=crop&w=1200&q=80",
+      "previewVideo": "https://www.youtube.com/embed/G6DmDqYLWL8",
+      "instructor": {
+        "id": 6,
+        "name": "Robert Taylor",
+        "avatar": "https://i.pravatar.cc/150?img=59"
+      },
+      "duration": "5 weeks",
+      "lessonsCount": 14,
+      "enrolledStudents": 153,
+      "language": "English",
+      "level": "Intermediate",
+      "progress": 35,
+      "rating": 4.7,
+      "weeks": [
+        {
+          "id": 1,
+          "title": "Week 1-4",
+          "lessons": [
+            {
+              "id": 32,
+              "title": "Digital Marketing Introduction",
+              "duration": "13 min",
+              "videoUrl": "https://www.youtube.com/embed/G6DmDqYLWL8",
+              "videoId": "G6DmDqYLWL8",
+              "questions": 2,
+              "completed": true
+            },
+            {
+              "id": 33,
+              "title": "Content Marketing",
+              "duration": "21 min",
+              "videoUrl": "https://www.youtube.com/embed/G6DmDqYLWL8",
+              "videoId": "G6DmDqYLWL8",
+              "questions": 3,
+              "completed": false
+            },
+            {
+              "id": 34,
+              "title": "Social Media Marketing",
+              "duration": "24 min",
+              "videoUrl": "https://www.youtube.com/embed/G6DmDqYLWL8",
+              "videoId": "G6DmDqYLWL8",
+              "questions": 3,
+              "completed": false
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "title": "Week 5-8",
+          "lessons": [
+            {
+              "id": 35,
+              "title": "Email Marketing",
+              "duration": "18 min",
+              "videoUrl": "https://www.youtube.com/embed/G6DmDqYLWL8",
+              "videoId": "G6DmDqYLWL8",
+              "questions": 2,
+              "completed": false
+            },
+            {
+              "id": 36,
+              "title": "Google Analytics",
+              "duration": "26 min",
+              "videoUrl": "https://www.youtube.com/embed/G6DmDqYLWL8",
+              "videoId": "G6DmDqYLWL8",
+              "questions": 3,
+              "completed": false
+            }
+          ]
+        }
+      ],
+      "materials": [
+        {
+          "id": 8,
+          "title": "Marketing Workbook",
+          "type": "PDF",
+          "url": "#"
+        }
+      ]
+    },
+    {
+      "id": "7",
+      "title": "Python for Beginners",
+      "slug": "python-for-beginners",
+      "description": "Start programming with Python. Learn syntax, data types, loops, functions and write your first real scripts.",
+      "thumbnail": "https://images.unsplash.com/photo-1515879218367-8466d910aaa4?auto=format&fit=crop&w=1200&q=80",
+      "previewVideo": "https://www.youtube.com/embed/rfscVS0vtbw",
+      "instructor": {
+        "id": 7,
+        "name": "Anna Martinez",
+        "avatar": "https://i.pravatar.cc/150?img=21"
+      },
+      "duration": "4 weeks",
+      "lessonsCount": 14,
+      "enrolledStudents": 342,
+      "language": "English",
+      "level": "Beginner",
+      "progress": 55,
+      "rating": 4.9,
+      "weeks": [
+        {
+          "id": 1,
+          "title": "Week 1-4",
+          "lessons": [
+            {
+              "id": 37,
+              "title": "Getting Started with Python",
+              "duration": "17 min",
+              "videoUrl": "https://www.youtube.com/embed/rfscVS0vtbw",
+              "videoId": "rfscVS0vtbw",
+              "questions": 3,
+              "completed": true
+            },
+            {
+              "id": 38,
+              "title": "Variables and Data Types",
+              "duration": "24 min",
+              "videoUrl": "https://www.youtube.com/embed/rfscVS0vtbw",
+              "videoId": "rfscVS0vtbw",
+              "questions": 2,
+              "completed": true
+            },
+            {
+              "id": 39,
+              "title": "Conditions and Loops",
+              "duration": "13 min",
+              "videoUrl": "https://www.youtube.com/embed/rfscVS0vtbw",
+              "videoId": "rfscVS0vtbw",
+              "questions": 1,
+              "completed": true
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "title": "Week 5-8",
+          "lessons": [
+            {
+              "id": 40,
+              "title": "Functions",
+              "duration": "20 min",
+              "videoUrl": "https://www.youtube.com/embed/rfscVS0vtbw",
+              "videoId": "rfscVS0vtbw",
+              "questions": 0,
+              "completed": false
+            },
+            {
+              "id": 41,
+              "title": "Lists and Dictionaries",
+              "duration": "27 min",
+              "videoUrl": "https://www.youtube.com/embed/rfscVS0vtbw",
+              "videoId": "rfscVS0vtbw",
+              "questions": 3,
+              "completed": false
+            },
+            {
+              "id": 42,
+              "title": "Working with Files",
+              "duration": "16 min",
+              "videoUrl": "https://www.youtube.com/embed/rfscVS0vtbw",
+              "videoId": "rfscVS0vtbw",
+              "questions": 2,
+              "completed": false
+            }
+          ]
+        }
+      ],
+      "materials": [
+        {
+          "id": 9,
+          "title": "Python Cheat Sheet",
+          "type": "PDF",
+          "url": "#"
+        }
+      ]
+    },
+    {
+      "id": "8",
+      "title": "TypeScript Essentials",
+      "slug": "typescript-essentials",
+      "description": "Add static typing to your JavaScript projects. Cover types, interfaces, generics and tooling for safer, cleaner code.",
+      "thumbnail": "https://images.unsplash.com/photo-1461749280684-dccba630e2f6?auto=format&fit=crop&w=1200&q=80",
+      "previewVideo": "https://www.youtube.com/embed/30LWjhZzg50",
+      "instructor": {
+        "id": 8,
+        "name": "Chris Evans",
+        "avatar": "https://i.pravatar.cc/150?img=15"
+      },
+      "duration": "3 weeks",
+      "lessonsCount": 11,
+      "enrolledStudents": 176,
+      "language": "English",
+      "level": "Intermediate",
+      "progress": 33,
+      "rating": 4.7,
+      "weeks": [
+        {
+          "id": 1,
+          "title": "Week 1-4",
+          "lessons": [
+            {
+              "id": 43,
+              "title": "Why TypeScript",
+              "duration": "23 min",
+              "videoUrl": "https://www.youtube.com/embed/30LWjhZzg50",
+              "videoId": "30LWjhZzg50",
+              "questions": 1,
+              "completed": true
+            },
+            {
+              "id": 44,
+              "title": "Basic and Union Types",
+              "duration": "12 min",
+              "videoUrl": "https://www.youtube.com/embed/30LWjhZzg50",
+              "videoId": "30LWjhZzg50",
+              "questions": 0,
+              "completed": true
+            },
+            {
+              "id": 45,
+              "title": "Interfaces and Type Aliases",
+              "duration": "19 min",
+              "videoUrl": "https://www.youtube.com/embed/30LWjhZzg50",
+              "videoId": "30LWjhZzg50",
+              "questions": 3,
+              "completed": false
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "title": "Week 5-8",
+          "lessons": [
+            {
+              "id": 46,
+              "title": "Classes and Generics",
+              "duration": "26 min",
+              "videoUrl": "https://www.youtube.com/embed/30LWjhZzg50",
+              "videoId": "30LWjhZzg50",
+              "questions": 2,
+              "completed": false
+            },
+            {
+              "id": 47,
+              "title": "Utility Types",
+              "duration": "15 min",
+              "videoUrl": "https://www.youtube.com/embed/30LWjhZzg50",
+              "videoId": "30LWjhZzg50",
+              "questions": 1,
+              "completed": false
+            },
+            {
+              "id": 48,
+              "title": "Configuring tsconfig",
+              "duration": "22 min",
+              "videoUrl": "https://www.youtube.com/embed/30LWjhZzg50",
+              "videoId": "30LWjhZzg50",
+              "questions": 0,
+              "completed": false
+            }
+          ]
+        }
+      ],
+      "materials": [
+        {
+          "id": 10,
+          "title": "TypeScript Handbook",
+          "type": "PDF",
+          "url": "#"
+        }
+      ]
+    },
+    {
+      "id": "9",
+      "title": "HTML & CSS Complete Guide",
+      "slug": "html-and-css-complete-guide",
+      "description": "Build responsive web pages from scratch using semantic HTML, modern CSS, Flexbox and Grid.",
+      "thumbnail": "https://images.unsplash.com/photo-1507721999472-8ed4421c4af2?auto=format&fit=crop&w=1200&q=80",
+      "previewVideo": "https://www.youtube.com/embed/pQN-pnXPaVg",
+      "instructor": {
+        "id": 9,
+        "name": "Laura Bennett",
+        "avatar": "https://i.pravatar.cc/150?img=5"
+      },
+      "duration": "4 weeks",
+      "lessonsCount": 16,
+      "enrolledStudents": 410,
+      "language": "English",
+      "level": "Beginner",
+      "progress": 78,
+      "rating": 4.8,
+      "weeks": [
+        {
+          "id": 1,
+          "title": "Week 1-4",
+          "lessons": [
+            {
+              "id": 49,
+              "title": "HTML Structure and Semantics",
+              "duration": "11 min",
+              "videoUrl": "https://www.youtube.com/embed/pQN-pnXPaVg",
+              "videoId": "pQN-pnXPaVg",
+              "questions": 3,
+              "completed": true
+            },
+            {
+              "id": 50,
+              "title": "Text, Links and Images",
+              "duration": "18 min",
+              "videoUrl": "https://www.youtube.com/embed/pQN-pnXPaVg",
+              "videoId": "pQN-pnXPaVg",
+              "questions": 2,
+              "completed": true
+            },
+            {
+              "id": 51,
+              "title": "CSS Selectors and the Box Model",
+              "duration": "25 min",
+              "videoUrl": "https://www.youtube.com/embed/pQN-pnXPaVg",
+              "videoId": "pQN-pnXPaVg",
+              "questions": 1,
+              "completed": true
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "title": "Week 5-8",
+          "lessons": [
+            {
+              "id": 52,
+              "title": "Flexbox Layout",
+              "duration": "14 min",
+              "videoUrl": "https://www.youtube.com/embed/pQN-pnXPaVg",
+              "videoId": "pQN-pnXPaVg",
+              "questions": 0,
+              "completed": true
+            },
+            {
+              "id": 53,
+              "title": "CSS Grid",
+              "duration": "21 min",
+              "videoUrl": "https://www.youtube.com/embed/pQN-pnXPaVg",
+              "videoId": "pQN-pnXPaVg",
+              "questions": 3,
+              "completed": true
+            },
+            {
+              "id": 54,
+              "title": "Responsive Design",
+              "duration": "10 min",
+              "videoUrl": "https://www.youtube.com/embed/pQN-pnXPaVg",
+              "videoId": "pQN-pnXPaVg",
+              "questions": 2,
+              "completed": false
+            }
+          ]
+        }
+      ],
+      "materials": [
+        {
+          "id": 11,
+          "title": "HTML & CSS Starter Files",
+          "type": "ZIP",
+          "url": "#"
+        }
+      ]
+    },
+    {
+      "id": "10",
+      "title": "Node.js & Express Backend",
+      "slug": "node-js-and-express-backend",
+      "description": "Create fast and secure REST APIs with Node.js and Express, including routing, middleware and error handling.",
+      "thumbnail": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=1200&q=80",
+      "previewVideo": "https://www.youtube.com/embed/Oe421EPjeBE",
+      "instructor": {
+        "id": 10,
+        "name": "Kevin Harris",
+        "avatar": "https://i.pravatar.cc/150?img=52"
+      },
+      "duration": "5 weeks",
+      "lessonsCount": 17,
+      "enrolledStudents": 198,
+      "language": "English",
+      "level": "Intermediate",
+      "progress": 24,
+      "rating": 4.6,
+      "weeks": [
+        {
+          "id": 1,
+          "title": "Week 1-4",
+          "lessons": [
+            {
+              "id": 55,
+              "title": "Node.js Fundamentals",
+              "duration": "17 min",
+              "videoUrl": "https://www.youtube.com/embed/Oe421EPjeBE",
+              "videoId": "Oe421EPjeBE",
+              "questions": 1,
+              "completed": true
+            },
+            {
+              "id": 56,
+              "title": "NPM and Modules",
+              "duration": "24 min",
+              "videoUrl": "https://www.youtube.com/embed/Oe421EPjeBE",
+              "videoId": "Oe421EPjeBE",
+              "questions": 0,
+              "completed": false
+            },
+            {
+              "id": 57,
+              "title": "Express Routing",
+              "duration": "13 min",
+              "videoUrl": "https://www.youtube.com/embed/Oe421EPjeBE",
+              "videoId": "Oe421EPjeBE",
+              "questions": 3,
+              "completed": false
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "title": "Week 5-8",
+          "lessons": [
+            {
+              "id": 58,
+              "title": "Middleware",
+              "duration": "20 min",
+              "videoUrl": "https://www.youtube.com/embed/Oe421EPjeBE",
+              "videoId": "Oe421EPjeBE",
+              "questions": 2,
+              "completed": false
+            },
+            {
+              "id": 59,
+              "title": "REST API Design",
+              "duration": "27 min",
+              "videoUrl": "https://www.youtube.com/embed/Oe421EPjeBE",
+              "videoId": "Oe421EPjeBE",
+              "questions": 1,
+              "completed": false
+            },
+            {
+              "id": 60,
+              "title": "Error Handling and Validation",
+              "duration": "16 min",
+              "videoUrl": "https://www.youtube.com/embed/Oe421EPjeBE",
+              "videoId": "Oe421EPjeBE",
+              "questions": 0,
+              "completed": false
+            }
+          ]
+        }
+      ],
+      "materials": [
+        {
+          "id": 12,
+          "title": "API Project Template",
+          "type": "ZIP",
+          "url": "#"
+        }
+      ]
+    },
+    {
+      "id": "11",
+      "title": "SQL & Database Design",
+      "slug": "sql-and-database-design",
+      "description": "Learn to query, design and optimize relational databases using SQL, joins, indexes and normalization.",
+      "thumbnail": "https://images.unsplash.com/photo-1544383835-bda2bc66a55d?auto=format&fit=crop&w=1200&q=80",
+      "previewVideo": "https://www.youtube.com/embed/HXV3zeQKqGY",
+      "instructor": {
+        "id": 11,
+        "name": "Priya Patel",
+        "avatar": "https://i.pravatar.cc/150?img=26"
+      },
+      "duration": "4 weeks",
+      "lessonsCount": 13,
+      "enrolledStudents": 225,
+      "language": "English",
+      "level": "Beginner",
+      "progress": 47,
+      "rating": 4.7,
+      "weeks": [
+        {
+          "id": 1,
+          "title": "Week 1-4",
+          "lessons": [
+            {
+              "id": 61,
+              "title": "Introduction to Databases",
+              "duration": "23 min",
+              "videoUrl": "https://www.youtube.com/embed/HXV3zeQKqGY",
+              "videoId": "HXV3zeQKqGY",
+              "questions": 3,
+              "completed": true
+            },
+            {
+              "id": 62,
+              "title": "SELECT and Filtering",
+              "duration": "12 min",
+              "videoUrl": "https://www.youtube.com/embed/HXV3zeQKqGY",
+              "videoId": "HXV3zeQKqGY",
+              "questions": 2,
+              "completed": true
+            },
+            {
+              "id": 63,
+              "title": "Joins",
+              "duration": "19 min",
+              "videoUrl": "https://www.youtube.com/embed/HXV3zeQKqGY",
+              "videoId": "HXV3zeQKqGY",
+              "questions": 1,
+              "completed": true
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "title": "Week 5-8",
+          "lessons": [
+            {
+              "id": 64,
+              "title": "Aggregation and Grouping",
+              "duration": "26 min",
+              "videoUrl": "https://www.youtube.com/embed/HXV3zeQKqGY",
+              "videoId": "HXV3zeQKqGY",
+              "questions": 0,
+              "completed": false
+            },
+            {
+              "id": 65,
+              "title": "Database Normalization",
+              "duration": "15 min",
+              "videoUrl": "https://www.youtube.com/embed/HXV3zeQKqGY",
+              "videoId": "HXV3zeQKqGY",
+              "questions": 3,
+              "completed": false
+            },
+            {
+              "id": 66,
+              "title": "Indexes and Performance",
+              "duration": "22 min",
+              "videoUrl": "https://www.youtube.com/embed/HXV3zeQKqGY",
+              "videoId": "HXV3zeQKqGY",
+              "questions": 2,
+              "completed": false
+            }
+          ]
+        }
+      ],
+      "materials": [
+        {
+          "id": 13,
+          "title": "SQL Practice Questions",
+          "type": "PDF",
+          "url": "#"
+        }
+      ]
+    },
+    {
+      "id": "12",
+      "title": "Git & GitHub Mastery",
+      "slug": "git-and-github-mastery",
+      "description": "Master version control, branching, pull requests and team collaboration workflows with Git and GitHub.",
+      "thumbnail": "https://images.unsplash.com/photo-1618401471353-b98afee0b2eb?auto=format&fit=crop&w=1200&q=80",
+      "previewVideo": "https://www.youtube.com/embed/RGOj5yH7evk",
+      "instructor": {
+        "id": 12,
+        "name": "Tom Richards",
+        "avatar": "https://i.pravatar.cc/150?img=57"
+      },
+      "duration": "2 weeks",
+      "lessonsCount": 9,
+      "enrolledStudents": 289,
+      "language": "English",
+      "level": "Beginner",
+      "progress": 90,
+      "rating": 4.8,
+      "weeks": [
+        {
+          "id": 1,
+          "title": "Week 1-4",
+          "lessons": [
+            {
+              "id": 67,
+              "title": "What is Version Control",
+              "duration": "11 min",
+              "videoUrl": "https://www.youtube.com/embed/RGOj5yH7evk",
+              "videoId": "RGOj5yH7evk",
+              "questions": 1,
+              "completed": true
+            },
+            {
+              "id": 68,
+              "title": "Commits and History",
+              "duration": "18 min",
+              "videoUrl": "https://www.youtube.com/embed/RGOj5yH7evk",
+              "videoId": "RGOj5yH7evk",
+              "questions": 0,
+              "completed": true
+            },
+            {
+              "id": 69,
+              "title": "Branching and Merging",
+              "duration": "25 min",
+              "videoUrl": "https://www.youtube.com/embed/RGOj5yH7evk",
+              "videoId": "RGOj5yH7evk",
+              "questions": 3,
+              "completed": true
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "title": "Week 5-8",
+          "lessons": [
+            {
+              "id": 70,
+              "title": "Working with Remotes",
+              "duration": "14 min",
+              "videoUrl": "https://www.youtube.com/embed/RGOj5yH7evk",
+              "videoId": "RGOj5yH7evk",
+              "questions": 2,
+              "completed": true
+            },
+            {
+              "id": 71,
+              "title": "Pull Requests",
+              "duration": "21 min",
+              "videoUrl": "https://www.youtube.com/embed/RGOj5yH7evk",
+              "videoId": "RGOj5yH7evk",
+              "questions": 1,
+              "completed": true
+            },
+            {
+              "id": 72,
+              "title": "Resolving Conflicts",
+              "duration": "10 min",
+              "videoUrl": "https://www.youtube.com/embed/RGOj5yH7evk",
+              "videoId": "RGOj5yH7evk",
+              "questions": 0,
+              "completed": false
+            }
+          ]
+        }
+      ],
+      "materials": [
+        {
+          "id": 14,
+          "title": "Git Command Cheat Sheet",
+          "type": "PDF",
+          "url": "#"
+        }
+      ]
+    },
+    {
+      "id": "13",
+      "title": "Docker & Containers",
+      "slug": "docker-and-containers",
+      "description": "Package and ship applications with Docker. Understand images, containers, volumes, networks and Docker Compose.",
+      "thumbnail": "https://images.unsplash.com/photo-1605745341112-85968b19335b?auto=format&fit=crop&w=1200&q=80",
+      "previewVideo": "https://www.youtube.com/embed/fqMOX6JJhGo",
+      "instructor": {
+        "id": 13,
+        "name": "Marcus Lee",
+        "avatar": "https://i.pravatar.cc/150?img=70"
+      },
+      "duration": "4 weeks",
+      "lessonsCount": 12,
+      "enrolledStudents": 134,
+      "language": "English",
+      "level": "Advanced",
+      "progress": 12,
+      "rating": 4.6,
+      "weeks": [
+        {
+          "id": 1,
+          "title": "Week 1-4",
+          "lessons": [
+            {
+              "id": 73,
+              "title": "Containers vs Virtual Machines",
+              "duration": "17 min",
+              "videoUrl": "https://www.youtube.com/embed/fqMOX6JJhGo",
+              "videoId": "fqMOX6JJhGo",
+              "questions": 3,
+              "completed": true
+            },
+            {
+              "id": 74,
+              "title": "Docker Images",
+              "duration": "24 min",
+              "videoUrl": "https://www.youtube.com/embed/fqMOX6JJhGo",
+              "videoId": "fqMOX6JJhGo",
+              "questions": 2,
+              "completed": false
+            },
+            {
+              "id": 75,
+              "title": "Running Containers",
+              "duration": "13 min",
+              "videoUrl": "https://www.youtube.com/embed/fqMOX6JJhGo",
+              "videoId": "fqMOX6JJhGo",
+              "questions": 1,
+              "completed": false
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "title": "Week 5-8",
+          "lessons": [
+            {
+              "id": 76,
+              "title": "Volumes and Networks",
+              "duration": "20 min",
+              "videoUrl": "https://www.youtube.com/embed/fqMOX6JJhGo",
+              "videoId": "fqMOX6JJhGo",
+              "questions": 0,
+              "completed": false
+            },
+            {
+              "id": 77,
+              "title": "Docker Compose",
+              "duration": "27 min",
+              "videoUrl": "https://www.youtube.com/embed/fqMOX6JJhGo",
+              "videoId": "fqMOX6JJhGo",
+              "questions": 3,
+              "completed": false
+            },
+            {
+              "id": 78,
+              "title": "Deploying Containers",
+              "duration": "16 min",
+              "videoUrl": "https://www.youtube.com/embed/fqMOX6JJhGo",
+              "videoId": "fqMOX6JJhGo",
+              "questions": 2,
+              "completed": false
+            }
+          ]
+        }
+      ],
+      "materials": [
+        {
+          "id": 15,
+          "title": "Docker Commands Guide",
+          "type": "PDF",
+          "url": "#"
+        }
+      ]
+    },
+    {
+      "id": "14",
+      "title": "Tailwind CSS in Practice",
+      "slug": "tailwind-css-in-practice",
+      "description": "Style modern interfaces quickly using utility classes, responsive variants, dark mode and reusable components.",
+      "thumbnail": "https://images.unsplash.com/photo-1517180102446-f3ece451e9d8?auto=format&fit=crop&w=1200&q=80",
+      "previewVideo": "https://www.youtube.com/embed/ft30zcMlFao",
+      "instructor": {
+        "id": 14,
+        "name": "Nina Foster",
+        "avatar": "https://i.pravatar.cc/150?img=36"
+      },
+      "duration": "3 weeks",
+      "lessonsCount": 10,
+      "enrolledStudents": 162,
+      "language": "English",
+      "level": "Beginner",
+      "progress": 61,
+      "rating": 4.7,
+      "weeks": [
+        {
+          "id": 1,
+          "title": "Week 1-4",
+          "lessons": [
+            {
+              "id": 79,
+              "title": "Utility-First Thinking",
+              "duration": "23 min",
+              "videoUrl": "https://www.youtube.com/embed/ft30zcMlFao",
+              "videoId": "ft30zcMlFao",
+              "questions": 1,
+              "completed": true
+            },
+            {
+              "id": 80,
+              "title": "Spacing and Typography",
+              "duration": "12 min",
+              "videoUrl": "https://www.youtube.com/embed/ft30zcMlFao",
+              "videoId": "ft30zcMlFao",
+              "questions": 0,
+              "completed": true
+            },
+            {
+              "id": 81,
+              "title": "Colors and Backgrounds",
+              "duration": "19 min",
+              "videoUrl": "https://www.youtube.com/embed/ft30zcMlFao",
+              "videoId": "ft30zcMlFao",
+              "questions": 3,
+              "completed": true
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "title": "Week 5-8",
+          "lessons": [
+            {
+              "id": 82,
+              "title": "Flexbox and Grid Utilities",
+              "duration": "26 min",
+              "videoUrl": "https://www.youtube.com/embed/ft30zcMlFao",
+              "videoId": "ft30zcMlFao",
+              "questions": 2,
+              "completed": true
+            },
+            {
+              "id": 83,
+              "title": "Responsive Variants",
+              "duration": "15 min",
+              "videoUrl": "https://www.youtube.com/embed/ft30zcMlFao",
+              "videoId": "ft30zcMlFao",
+              "questions": 1,
+              "completed": false
+            },
+            {
+              "id": 84,
+              "title": "Dark Mode and Theming",
+              "duration": "22 min",
+              "videoUrl": "https://www.youtube.com/embed/ft30zcMlFao",
+              "videoId": "ft30zcMlFao",
+              "questions": 0,
+              "completed": false
+            }
+          ]
+        }
+      ],
+      "materials": [
+        {
+          "id": 16,
+          "title": "Tailwind Class Reference",
+          "type": "PDF",
+          "url": "#"
+        }
+      ]
+    },
+    {
+      "id": "15",
+      "title": "Data Analysis with Python",
+      "slug": "data-analysis-with-python",
+      "description": "Clean, explore and visualize data using Pandas, NumPy and Matplotlib to uncover real insights.",
+      "thumbnail": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?auto=format&fit=crop&w=1200&q=80",
+      "previewVideo": "https://www.youtube.com/embed/r-uOLxNrNk8",
+      "instructor": {
+        "id": 15,
+        "name": "Hannah Scott",
+        "avatar": "https://i.pravatar.cc/150?img=9"
+      },
+      "duration": "5 weeks",
+      "lessonsCount": 15,
+      "enrolledStudents": 203,
+      "language": "English",
+      "level": "Intermediate",
+      "progress": 38,
+      "rating": 4.8,
+      "weeks": [
+        {
+          "id": 1,
+          "title": "Week 1-4",
+          "lessons": [
+            {
+              "id": 85,
+              "title": "Intro to Data Analysis",
+              "duration": "11 min",
+              "videoUrl": "https://www.youtube.com/embed/r-uOLxNrNk8",
+              "videoId": "r-uOLxNrNk8",
+              "questions": 3,
+              "completed": true
+            },
+            {
+              "id": 86,
+              "title": "NumPy Basics",
+              "duration": "18 min",
+              "videoUrl": "https://www.youtube.com/embed/r-uOLxNrNk8",
+              "videoId": "r-uOLxNrNk8",
+              "questions": 2,
+              "completed": true
+            },
+            {
+              "id": 87,
+              "title": "Pandas DataFrames",
+              "duration": "25 min",
+              "videoUrl": "https://www.youtube.com/embed/r-uOLxNrNk8",
+              "videoId": "r-uOLxNrNk8",
+              "questions": 1,
+              "completed": false
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "title": "Week 5-8",
+          "lessons": [
+            {
+              "id": 88,
+              "title": "Cleaning Messy Data",
+              "duration": "14 min",
+              "videoUrl": "https://www.youtube.com/embed/r-uOLxNrNk8",
+              "videoId": "r-uOLxNrNk8",
+              "questions": 0,
+              "completed": false
+            },
+            {
+              "id": 89,
+              "title": "Data Visualization",
+              "duration": "21 min",
+              "videoUrl": "https://www.youtube.com/embed/r-uOLxNrNk8",
+              "videoId": "r-uOLxNrNk8",
+              "questions": 3,
+              "completed": false
+            },
+            {
+              "id": 90,
+              "title": "Exploratory Analysis Project",
+              "duration": "10 min",
+              "videoUrl": "https://www.youtube.com/embed/r-uOLxNrNk8",
+              "videoId": "r-uOLxNrNk8",
+              "questions": 2,
+              "completed": false
+            }
+          ]
+        }
+      ],
+      "materials": [
+        {
+          "id": 17,
+          "title": "Sample Datasets",
+          "type": "ZIP",
+          "url": "#"
+        }
+      ]
+    },
+    {
+      "id": "16",
+      "title": "Machine Learning Basics",
+      "slug": "machine-learning-basics",
+      "description": "Understand core machine learning concepts, from regression and classification to model evaluation.",
+      "thumbnail": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
+      "previewVideo": "https://www.youtube.com/embed/NWONeJKn6kc",
+      "instructor": {
+        "id": 16,
+        "name": "Dr. Omar Hassan",
+        "avatar": "https://i.pravatar.cc/150?img=13"
+      },
+      "duration": "6 weeks",
+      "lessonsCount": 20,
+      "enrolledStudents": 257,
+      "language": "English",
+      "level": "Advanced",
+      "progress": 19,
+      "rating": 4.9,
+      "weeks": [
+        {
+          "id": 1,
+          "title": "Week 1-4",
+          "lessons": [
+            {
+              "id": 91,
+              "title": "What is Machine Learning",
+              "duration": "17 min",
+              "videoUrl": "https://www.youtube.com/embed/NWONeJKn6kc",
+              "videoId": "NWONeJKn6kc",
+              "questions": 1,
+              "completed": true
+            },
+            {
+              "id": 92,
+              "title": "Linear Regression",
+              "duration": "24 min",
+              "videoUrl": "https://www.youtube.com/embed/NWONeJKn6kc",
+              "videoId": "NWONeJKn6kc",
+              "questions": 0,
+              "completed": false
+            },
+            {
+              "id": 93,
+              "title": "Classification",
+              "duration": "13 min",
+              "videoUrl": "https://www.youtube.com/embed/NWONeJKn6kc",
+              "videoId": "NWONeJKn6kc",
+              "questions": 3,
+              "completed": false
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "title": "Week 5-8",
+          "lessons": [
+            {
+              "id": 94,
+              "title": "Decision Trees",
+              "duration": "20 min",
+              "videoUrl": "https://www.youtube.com/embed/NWONeJKn6kc",
+              "videoId": "NWONeJKn6kc",
+              "questions": 2,
+              "completed": false
+            },
+            {
+              "id": 95,
+              "title": "Model Evaluation",
+              "duration": "27 min",
+              "videoUrl": "https://www.youtube.com/embed/NWONeJKn6kc",
+              "videoId": "NWONeJKn6kc",
+              "questions": 1,
+              "completed": false
+            },
+            {
+              "id": 96,
+              "title": "Overfitting and Tuning",
+              "duration": "16 min",
+              "videoUrl": "https://www.youtube.com/embed/NWONeJKn6kc",
+              "videoId": "NWONeJKn6kc",
+              "questions": 0,
+              "completed": false
+            }
+          ]
+        }
+      ],
+      "materials": [
+        {
+          "id": 18,
+          "title": "ML Notebook Pack",
+          "type": "ZIP",
+          "url": "#"
+        }
+      ]
+    },
+    {
+      "id": "17",
+      "title": "Flutter Mobile Development",
+      "slug": "flutter-mobile-development",
+      "description": "Build cross-platform mobile apps for iOS and Android with Flutter, Dart, widgets and state management.",
+      "thumbnail": "https://images.unsplash.com/photo-1512941937669-90a1b58e7e9c?auto=format&fit=crop&w=1200&q=80",
+      "previewVideo": "https://www.youtube.com/embed/VPvVD8t02U8",
+      "instructor": {
+        "id": 17,
+        "name": "Sofia Rossi",
+        "avatar": "https://i.pravatar.cc/150?img=43"
+      },
+      "duration": "6 weeks",
+      "lessonsCount": 19,
+      "enrolledStudents": 148,
+      "language": "English",
+      "level": "Intermediate",
+      "progress": 29,
+      "rating": 4.7,
+      "weeks": [
+        {
+          "id": 1,
+          "title": "Week 1-4",
+          "lessons": [
+            {
+              "id": 97,
+              "title": "Dart Fundamentals",
+              "duration": "23 min",
+              "videoUrl": "https://www.youtube.com/embed/VPvVD8t02U8",
+              "videoId": "VPvVD8t02U8",
+              "questions": 3,
+              "completed": true
+            },
+            {
+              "id": 98,
+              "title": "Widgets and Layouts",
+              "duration": "12 min",
+              "videoUrl": "https://www.youtube.com/embed/VPvVD8t02U8",
+              "videoId": "VPvVD8t02U8",
+              "questions": 2,
+              "completed": true
+            },
+            {
+              "id": 99,
+              "title": "Navigation",
+              "duration": "19 min",
+              "videoUrl": "https://www.youtube.com/embed/VPvVD8t02U8",
+              "videoId": "VPvVD8t02U8",
+              "questions": 1,
+              "completed": false
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "title": "Week 5-8",
+          "lessons": [
+            {
+              "id": 100,
+              "title": "State Management",
+              "duration": "26 min",
+              "videoUrl": "https://www.youtube.com/embed/VPvVD8t02U8",
+              "videoId": "VPvVD8t02U8",
+              "questions": 0,
+              "completed": false
+            },
+            {
+              "id": 101,
+              "title": "Networking and APIs",
+              "duration": "15 min",
+              "videoUrl": "https://www.youtube.com/embed/VPvVD8t02U8",
+              "videoId": "VPvVD8t02U8",
+              "questions": 3,
+              "completed": false
+            },
+            {
+              "id": 102,
+              "title": "Publishing Your App",
+              "duration": "22 min",
+              "videoUrl": "https://www.youtube.com/embed/VPvVD8t02U8",
+              "videoId": "VPvVD8t02U8",
+              "questions": 2,
+              "completed": false
+            }
+          ]
+        }
+      ],
+      "materials": [
+        {
+          "id": 19,
+          "title": "Flutter Starter Project",
+          "type": "ZIP",
+          "url": "#"
+        }
+      ]
+    },
+    {
+      "id": "18",
+      "title": "Cybersecurity Fundamentals",
+      "slug": "cybersecurity-fundamentals",
+      "description": "Learn how attacks work and how to defend against them: threats, encryption, network security and best practices.",
+      "thumbnail": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?auto=format&fit=crop&w=1200&q=80",
+      "previewVideo": "https://www.youtube.com/embed/U_P23SqJaDc",
+      "instructor": {
+        "id": 18,
+        "name": "Ethan Walker",
+        "avatar": "https://i.pravatar.cc/150?img=15"
+      },
+      "duration": "4 weeks",
+      "lessonsCount": 12,
+      "enrolledStudents": 119,
+      "language": "English",
+      "level": "Beginner",
+      "progress": 44,
+      "rating": 4.6,
+      "weeks": [
+        {
+          "id": 1,
+          "title": "Week 1-4",
+          "lessons": [
+            {
+              "id": 103,
+              "title": "Security Basics",
+              "duration": "11 min",
+              "videoUrl": "https://www.youtube.com/embed/U_P23SqJaDc",
+              "videoId": "U_P23SqJaDc",
+              "questions": 1,
+              "completed": true
+            },
+            {
+              "id": 104,
+              "title": "Common Threats and Attacks",
+              "duration": "18 min",
+              "videoUrl": "https://www.youtube.com/embed/U_P23SqJaDc",
+              "videoId": "U_P23SqJaDc",
+              "questions": 0,
+              "completed": true
+            },
+            {
+              "id": 105,
+              "title": "Passwords and Authentication",
+              "duration": "25 min",
+              "videoUrl": "https://www.youtube.com/embed/U_P23SqJaDc",
+              "videoId": "U_P23SqJaDc",
+              "questions": 3,
+              "completed": true
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "title": "Week 5-8",
+          "lessons": [
+            {
+              "id": 106,
+              "title": "Encryption Essentials",
+              "duration": "14 min",
+              "videoUrl": "https://www.youtube.com/embed/U_P23SqJaDc",
+              "videoId": "U_P23SqJaDc",
+              "questions": 2,
+              "completed": false
+            },
+            {
+              "id": 107,
+              "title": "Network Security",
+              "duration": "21 min",
+              "videoUrl": "https://www.youtube.com/embed/U_P23SqJaDc",
+              "videoId": "U_P23SqJaDc",
+              "questions": 1,
+              "completed": false
+            },
+            {
+              "id": 108,
+              "title": "Security Best Practices",
+              "duration": "10 min",
+              "videoUrl": "https://www.youtube.com/embed/U_P23SqJaDc",
+              "videoId": "U_P23SqJaDc",
+              "questions": 0,
+              "completed": false
+            }
+          ]
+        }
+      ],
+      "materials": [
+        {
+          "id": 20,
+          "title": "Security Checklist",
+          "type": "PDF",
+          "url": "#"
+        }
+      ]
+    },
+    {
+      "id": "19",
+      "title": "Content Writing & Copywriting",
+      "slug": "content-writing-and-copywriting",
+      "description": "Write clear, persuasive content for blogs, websites and ads that engages readers and drives action.",
+      "thumbnail": "https://images.unsplash.com/photo-1455390582262-044cdead277a?auto=format&fit=crop&w=1200&q=80",
+      "previewVideo": "https://www.youtube.com/embed/qFqWvRMVKEs",
+      "instructor": {
+        "id": 19,
+        "name": "Grace Turner",
+        "avatar": "https://i.pravatar.cc/150?img=29"
+      },
+      "duration": "3 weeks",
+      "lessonsCount": 10,
+      "enrolledStudents": 176,
+      "language": "English",
+      "level": "Beginner",
+      "progress": 52,
+      "rating": 4.5,
+      "weeks": [
+        {
+          "id": 1,
+          "title": "Week 1-4",
+          "lessons": [
+            {
+              "id": 109,
+              "title": "Understanding Your Audience",
+              "duration": "17 min",
+              "videoUrl": "https://www.youtube.com/embed/qFqWvRMVKEs",
+              "videoId": "qFqWvRMVKEs",
+              "questions": 3,
+              "completed": true
+            },
+            {
+              "id": 110,
+              "title": "Headlines That Hook",
+              "duration": "24 min",
+              "videoUrl": "https://www.youtube.com/embed/qFqWvRMVKEs",
+              "videoId": "qFqWvRMVKEs",
+              "questions": 2,
+              "completed": true
+            },
+            {
+              "id": 111,
+              "title": "Structuring Articles",
+              "duration": "13 min",
+              "videoUrl": "https://www.youtube.com/embed/qFqWvRMVKEs",
+              "videoId": "qFqWvRMVKEs",
+              "questions": 1,
+              "completed": true
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "title": "Week 5-8",
+          "lessons": [
+            {
+              "id": 112,
+              "title": "Persuasive Copywriting",
+              "duration": "20 min",
+              "videoUrl": "https://www.youtube.com/embed/qFqWvRMVKEs",
+              "videoId": "qFqWvRMVKEs",
+              "questions": 0,
+              "completed": false
+            },
+            {
+              "id": 113,
+              "title": "Editing and Proofreading",
+              "duration": "27 min",
+              "videoUrl": "https://www.youtube.com/embed/qFqWvRMVKEs",
+              "videoId": "qFqWvRMVKEs",
+              "questions": 3,
+              "completed": false
+            },
+            {
+              "id": 114,
+              "title": "Writing for SEO",
+              "duration": "16 min",
+              "videoUrl": "https://www.youtube.com/embed/qFqWvRMVKEs",
+              "videoId": "qFqWvRMVKEs",
+              "questions": 2,
+              "completed": false
+            }
+          ]
+        }
+      ],
+      "materials": [
+        {
+          "id": 21,
+          "title": "Writing Templates",
+          "type": "PDF",
+          "url": "#"
+        }
+      ]
+    },
+    {
+      "id": "20",
+      "title": "Figma for Product Design",
+      "slug": "figma-for-product-design",
+      "description": "Design interfaces, prototypes and design systems in Figma and collaborate smoothly with developers.",
+      "thumbnail": "https://images.unsplash.com/photo-1581291518857-4e27b48ff24e?auto=format&fit=crop&w=1200&q=80",
+      "previewVideo": "https://www.youtube.com/embed/FTFaQWZBqQ8",
+      "instructor": {
+        "id": 20,
+        "name": "Julia Nguyen",
+        "avatar": "https://i.pravatar.cc/150?img=16"
+      },
+      "duration": "4 weeks",
+      "lessonsCount": 13,
+      "enrolledStudents": 138,
+      "language": "English",
+      "level": "Intermediate",
+      "progress": 66,
+      "rating": 4.8,
+      "weeks": [
+        {
+          "id": 1,
+          "title": "Week 1-4",
+          "lessons": [
+            {
+              "id": 115,
+              "title": "Figma Interface Tour",
+              "duration": "23 min",
+              "videoUrl": "https://www.youtube.com/embed/FTFaQWZBqQ8",
+              "videoId": "FTFaQWZBqQ8",
+              "questions": 1,
+              "completed": true
+            },
+            {
+              "id": 116,
+              "title": "Frames and Auto Layout",
+              "duration": "12 min",
+              "videoUrl": "https://www.youtube.com/embed/FTFaQWZBqQ8",
+              "videoId": "FTFaQWZBqQ8",
+              "questions": 0,
+              "completed": true
+            },
+            {
+              "id": 117,
+              "title": "Components and Variants",
+              "duration": "19 min",
+              "videoUrl": "https://www.youtube.com/embed/FTFaQWZBqQ8",
+              "videoId": "FTFaQWZBqQ8",
+              "questions": 3,
+              "completed": true
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "title": "Week 5-8",
+          "lessons": [
+            {
+              "id": 118,
+              "title": "Building a Design System",
+              "duration": "26 min",
+              "videoUrl": "https://www.youtube.com/embed/FTFaQWZBqQ8",
+              "videoId": "FTFaQWZBqQ8",
+              "questions": 2,
+              "completed": true
+            },
+            {
+              "id": 119,
+              "title": "Interactive Prototyping",
+              "duration": "15 min",
+              "videoUrl": "https://www.youtube.com/embed/FTFaQWZBqQ8",
+              "videoId": "FTFaQWZBqQ8",
+              "questions": 1,
+              "completed": false
+            },
+            {
+              "id": 120,
+              "title": "Developer Handoff",
+              "duration": "22 min",
+              "videoUrl": "https://www.youtube.com/embed/FTFaQWZBqQ8",
+              "videoId": "FTFaQWZBqQ8",
+              "questions": 0,
+              "completed": false
+            }
+          ]
+        }
+      ],
+      "materials": [
+        {
+          "id": 22,
+          "title": "Figma UI Kit",
+          "type": "ZIP",
+          "url": "#"
+        }
+      ]
+    }
+  ],
+  "comments": [
+    {
+      "id": "1",
+      "courseId": 1,
+      "user": {
+        "id": 1,
+        "name": "John Smith",
+        "avatar": "https://i.pravatar.cc/150?img=11"
+      },
+      "content": "This course was really helpful and easy to follow.",
+      "createdAt": "2026-09-20"
+    },
+    {
+      "id": "2",
+      "courseId": 1,
+      "user": {
+        "id": 2,
+        "name": "Emma Wilson",
+        "avatar": "https://i.pravatar.cc/150?img=32"
+      },
+      "content": "The explanations are clear and the exercises are useful.",
+      "createdAt": "2026-09-22"
+    },
+    {
+      "id": "3",
+      "courseId": 2,
+      "user": {
+        "id": 3,
+        "name": "Daniel Brown",
+        "avatar": "https://i.pravatar.cc/150?img=13"
+      },
+      "content": "Great JavaScript course. I learned a lot.",
+      "createdAt": "2026-09-25"
+    },
+    {
+      "id": "4",
+      "courseId": 3,
+      "user": {
+        "id": 4,
+        "name": "Olivia Martin",
+        "avatar": "https://i.pravatar.cc/150?img=45"
+      },
+      "content": "The React examples are very practical.",
+      "createdAt": "2026-09-28"
+    },
+    {
+      "id": "5",
+      "courseId": 4,
+      "user": {
+        "id": 5,
+        "name": "William Clark",
+        "avatar": "https://i.pravatar.cc/150?img=60"
+      },
+      "content": "Very good explanation of Next.js App Router.",
+      "createdAt": "2026-10-01"
+    },
+    {
+      "id": "6",
+      "courseId": 5,
+      "user": {
+        "id": 6,
+        "name": "Sophia Miller",
+        "avatar": "https://i.pravatar.cc/150?img=48"
+      },
+      "content": "The design exercises were really useful.",
+      "createdAt": "2026-10-03"
+    },
+    {
+      "id": "7",
+      "courseId": 6,
+      "user": {
+        "id": 7,
+        "name": "Lucas Moore",
+        "avatar": "https://i.pravatar.cc/150?img=14"
+      },
+      "content": "Great introduction to digital marketing.",
+      "createdAt": "2026-10-04"
+    },
+    {
+      "courseId": 1,
+      "content": "hv",
+      "createdAt": "2026-10-18",
+      "id": "pPMUlUGaAU4"
+    },
+    {
+      "courseId": 11,
+      "content": "tt",
+      "createdAt": "2026-10-18",
+      "id": "YFW0qUIx8gM"
+    },
+    {
+      "courseId": 4,
+      "content": "nn",
+      "createdAt": "2026-10-18",
+      "id": "0w91sDWGyek"
+    },
+    {
+      "courseId": 4,
+      "content": "mm",
+      "createdAt": "2026-10-18",
+      "id": "5ponmwhTi8o"
+    },
+    {
+      "courseId": 2,
+      "content": "df",
+      "createdAt": "2026-10-18",
+      "id": "ypei1DX4BJk"
+    },
+    {
+      "courseId": 1,
+      "content": "test",
+      "createdAt": "2026-10-21",
+      "id": "07tLDTrC7kM"
+    }
+  ],
+  "users": [
+    {
+      "id": "1",
+      "name": "John Smith",
+      "email": "john@example.com",
+      "avatar": "https://i.pravatar.cc/150?img=11"
+    },
+    {
+      "id": "2",
+      "name": "Emma Wilson",
+      "email": "emma@example.com",
+      "avatar": "https://i.pravatar.cc/150?img=32"
+    }
+  ],
+  "progress": [
+    {
+      "id": "wS6QluLGAUw",
+      "userId": "user1",
+      "lessonId": "preview",
+      "currentTime": 2175,
+      "duration": 7023,
+      "percentage": 30
+    },
+    {
+      "id": "NrtrKmlMHbg",
+      "userId": "user1",
+      "lessonId": "preview",
+      "currentTime": 0,
+      "duration": 7023,
+      "percentage": 0
+    },
+    {
+      "id": "0tZ-ULKCKAU",
+      "userId": "user1",
+      "lessonId": "preview",
+      "currentTime": 3267,
+      "duration": 7023,
+      "percentage": 46
+    },
+    {
+      "id": "PFvyPLhhwjE",
+      "userId": "user1",
+      "lessonId": "preview",
+      "currentTime": 0,
+      "duration": 7023,
+      "percentage": 0
+    },
+    {
+      "id": "fxUC8QG543M",
+      "userId": "user1",
+      "lessonId": "preview",
+      "currentTime": 2761,
+      "duration": 7023,
+      "percentage": 39
+    },
+    {
+      "id": "t8hUOWWGA3c",
+      "userId": "user1",
+      "lessonId": "preview",
+      "currentTime": 2857,
+      "duration": 7023,
+      "percentage": 40
+    },
+    {
+      "id": "SFMzzHXWbM4",
+      "userId": "user1",
+      "courseId": "1",
+      "lessonId": "preview",
+      "currentTime": 2263,
+      "duration": 7023,
+      "percentage": 32
+    },
+    {
+      "id": "cLeTFVQuNkA",
+      "userId": "user1",
+      "courseId": "1",
+      "lessonId": "preview",
+      "currentTime": 0,
+      "duration": 7023,
+      "percentage": 0
+    },
+    {
+      "id": "m5NtWkMrc9k",
+      "userId": "user1",
+      "courseId": "1",
+      "lessonId": "preview",
+      "currentTime": 2962,
+      "duration": 7023,
+      "percentage": 42
+    },
+    {
+      "id": "DbYW_Y3Esss",
+      "userId": "user1",
+      "courseId": "1",
+      "lessonId": "preview",
+      "currentTime": 1,
+      "duration": 7023,
+      "percentage": 0
+    },
+    {
+      "id": "Grrzzna-v5E",
+      "userId": "user1",
+      "courseId": "1",
+      "lessonId": "preview",
+      "currentTime": 2455,
+      "duration": 7023,
+      "percentage": 34
+    },
+    {
+      "id": "vyRz6S4tabc",
+      "userId": "user1",
+      "courseId": "1",
+      "lessonId": "preview",
+      "currentTime": 3092,
+      "duration": 7023,
+      "percentage": 44
+    },
+    {
+      "id": "ZEH90HVcVZE",
+      "userId": "user1",
+      "courseId": "1",
+      "lessonId": "preview",
+      "currentTime": 3784,
+      "duration": 7023,
+      "percentage": 53
+    },
+    {
+      "id": "muVYBTtVV2E",
+      "userId": "user1",
+      "courseId": "2",
+      "lessonId": "preview",
+      "currentTime": 2,
+      "duration": 2897,
+      "percentage": 0
+    },
+    {
+      "id": "fZmLv7FlN8c",
+      "userId": "user1",
+      "courseId": "1",
+      "lessonId": "preview",
+      "currentTime": 3127,
+      "duration": 7023,
+      "percentage": 44
+    },
+    {
+      "id": "QuqiwDLrn7E",
+      "userId": "user1",
+      "courseId": "5",
+      "lessonId": "preview",
+      "currentTime": 2144,
+      "duration": 5181,
+      "percentage": 41
+    },
+    {
+      "id": "lhT1J2Lb8sE",
+      "userId": "user1",
+      "courseId": "5",
+      "lessonId": "preview",
+      "currentTime": 2432,
+      "duration": 5181,
+      "percentage": 46
+    }
+  ],
+  "questions": [
+    {
+      "id": "1",
+      "courseId": 1,
+      "content": "How long does it take for SEO changes to show in Google results?",
+      "createdAt": "2026-10-10"
+    },
+    {
+      "id": "2",
+      "courseId": 1,
+      "content": "Do I need paid tools to follow the exercises?",
+      "createdAt": "2026-10-12"
+    },
+    {
+      "id": "3",
+      "courseId": 2,
+      "content": "What is the difference between let and const?",
+      "createdAt": "2026-10-13"
+    },
+    {
+      "id": "4",
+      "courseId": 3,
+      "content": "When should I use useEffect instead of an event handler?",
+      "createdAt": "2026-10-15"
+    },
+    {
+      "id": "5",
+      "courseId": 4,
+      "content": "Is the App Router required, or can I still use the Pages Router?",
+      "createdAt": "2026-10-17"
+    },
+    {
+      "courseId": 1,
+      "content": "dajsb",
+      "createdAt": "2026-10-18",
+      "id": "LXzekkI_Vvk"
+    },
+    {
+      "courseId": 1,
+      "content": "dsmv",
+      "createdAt": "2026-10-21",
+      "id": "6qNIUmD4VrA"
+    }
+  ],
+  "quizQuestions": [
+    {
+      "id": "quiz-q1",
+      "courseId": "1",
+      "lessonId": "1",
+      "question": "What is the main goal of SEO?",
+      "code": null,
+      "type": "concept",
+      "difficulty": "easy",
+      "options": [
+        {
+          "id": "a",
+          "text": "Increase organic (unpaid) traffic by improving visibility in search results"
+        },
+        {
+          "id": "b",
+          "text": "Buy ads to appear at the top of search results"
+        },
+        {
+          "id": "c",
+          "text": "Increase the number of social media followers"
+        },
+        {
+          "id": "d",
+          "text": "Make a website load without an internet connection"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "SEO focuses on earning higher rankings in unpaid search results so more people find your site organically."
+    },
+    {
+      "id": "quiz-q2",
+      "courseId": "1",
+      "lessonId": "2",
+      "question": "Which HTML tag defines the clickable headline shown for a page in search results?",
+      "code": null,
+      "type": "recall",
+      "difficulty": "easy",
+      "options": [
+        {
+          "id": "a",
+          "text": "<footer>"
+        },
+        {
+          "id": "b",
+          "text": "<title>"
+        },
+        {
+          "id": "c",
+          "text": "<aside>"
+        },
+        {
+          "id": "d",
+          "text": "<script>"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Search engines usually use the title tag as the title link in results, so it should describe the page clearly."
+    },
+    {
+      "id": "quiz-q3",
+      "courseId": "1",
+      "lessonId": "3",
+      "question": "Which of these is an example of off-page SEO?",
+      "code": null,
+      "type": "concept",
+      "difficulty": "medium",
+      "options": [
+        {
+          "id": "a",
+          "text": "Writing a descriptive meta description"
+        },
+        {
+          "id": "b",
+          "text": "Compressing the images on your pages"
+        },
+        {
+          "id": "c",
+          "text": "Earning backlinks from other reputable websites"
+        },
+        {
+          "id": "d",
+          "text": "Adding headings to structure your content"
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "Off-page SEO covers signals outside your site, such as backlinks. The other options are on-page optimizations."
+    },
+    {
+      "id": "quiz-q4",
+      "courseId": "2",
+      "lessonId": "9",
+      "question": "Which statement about JavaScript is true?",
+      "code": null,
+      "type": "concept",
+      "difficulty": "easy",
+      "options": [
+        {
+          "id": "a",
+          "text": "It can only run inside Java applications"
+        },
+        {
+          "id": "b",
+          "text": "It must be compiled to machine code before every run"
+        },
+        {
+          "id": "c",
+          "text": "It is only used to style web pages"
+        },
+        {
+          "id": "d",
+          "text": "It runs in web browsers and, with Node.js, on servers too"
+        }
+      ],
+      "correctOptionId": "d",
+      "explanation": "JavaScript runs in every modern browser and, through runtimes like Node.js, outside the browser as well."
+    },
+    {
+      "id": "quiz-q5",
+      "courseId": "2",
+      "lessonId": "10",
+      "question": "What will this code return?",
+      "code": "console.log(typeof [])",
+      "type": "application",
+      "difficulty": "medium",
+      "options": [
+        {
+          "id": "a",
+          "text": "object"
+        },
+        {
+          "id": "b",
+          "text": "array"
+        },
+        {
+          "id": "c",
+          "text": "undefined"
+        },
+        {
+          "id": "d",
+          "text": "null"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "In JavaScript, arrays are objects, so typeof [] returns 'object'."
+    },
+    {
+      "id": "quiz-q6",
+      "courseId": "2",
+      "lessonId": "11",
+      "question": "What will this code print?",
+      "code": "const double = (n) => n * 2;\nconsole.log(double(4));",
+      "type": "application",
+      "difficulty": "easy",
+      "options": [
+        {
+          "id": "a",
+          "text": "24"
+        },
+        {
+          "id": "b",
+          "text": "8"
+        },
+        {
+          "id": "c",
+          "text": "4"
+        },
+        {
+          "id": "d",
+          "text": "undefined"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "The arrow function returns n * 2, so double(4) returns 8."
+    },
+    {
+      "id": "quiz-q7",
+      "courseId": "2",
+      "lessonId": "14",
+      "question": "What does this code print?",
+      "code": "console.log([1, 2, 3].map((n) => n * 2));",
+      "type": "application",
+      "difficulty": "medium",
+      "options": [
+        {
+          "id": "a",
+          "text": "6"
+        },
+        {
+          "id": "b",
+          "text": "[1, 2, 3]"
+        },
+        {
+          "id": "c",
+          "text": "[2, 4, 6]"
+        },
+        {
+          "id": "d",
+          "text": "[1, 4, 9]"
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "map() returns a new array with the callback applied to every item."
+    },
+    {
+      "id": "quiz-q8",
+      "courseId": "3",
+      "lessonId": "16",
+      "question": "What must the name of a React component start with?",
+      "code": null,
+      "type": "recall",
+      "difficulty": "easy",
+      "options": [
+        {
+          "id": "a",
+          "text": "A lowercase letter"
+        },
+        {
+          "id": "b",
+          "text": "An underscore"
+        },
+        {
+          "id": "c",
+          "text": "The word use"
+        },
+        {
+          "id": "d",
+          "text": "A capital letter"
+        }
+      ],
+      "correctOptionId": "d",
+      "explanation": "React treats lowercase tags as HTML elements, so a component like Button must start with a capital letter."
+    },
+    {
+      "id": "quiz-q9",
+      "courseId": "3",
+      "lessonId": "18",
+      "question": "What does useState return?",
+      "code": "const [count, setCount] = useState(0);",
+      "type": "concept",
+      "difficulty": "easy",
+      "options": [
+        {
+          "id": "a",
+          "text": "An array with the current state value and a function to update it"
+        },
+        {
+          "id": "b",
+          "text": "An object with get and set methods"
+        },
+        {
+          "id": "c",
+          "text": "Only the current state value"
+        },
+        {
+          "id": "d",
+          "text": "A promise that resolves to the state"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "useState returns a two-item array: the state value and its setter, which is why array destructuring is used."
+    },
+    {
+      "id": "quiz-q10",
+      "courseId": "3",
+      "lessonId": "19",
+      "question": "When does this effect run?",
+      "code": "useEffect(() => {\n  fetchData();\n}, []);",
+      "type": "application",
+      "difficulty": "medium",
+      "options": [
+        {
+          "id": "a",
+          "text": "On every render"
+        },
+        {
+          "id": "b",
+          "text": "Once, after the component's first render"
+        },
+        {
+          "id": "c",
+          "text": "Only when fetchData changes"
+        },
+        {
+          "id": "d",
+          "text": "Before the component renders for the first time"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "An empty dependency array means the effect has nothing to react to, so it runs once after mount."
+    },
+    {
+      "id": "quiz-q11",
+      "courseId": "3",
+      "lessonId": "20",
+      "question": "What naming rule must a custom hook follow?",
+      "code": null,
+      "type": "recall",
+      "difficulty": "medium",
+      "options": [
+        {
+          "id": "a",
+          "text": "Its name must start with a capital letter"
+        },
+        {
+          "id": "b",
+          "text": "It must be defined inside a class component"
+        },
+        {
+          "id": "c",
+          "text": "Its name must start with use"
+        },
+        {
+          "id": "d",
+          "text": "It must return JSX"
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "Names starting with use let React and the linter recognize hooks and enforce the Rules of Hooks."
+    },
+    {
+      "id": "quiz-q12",
+      "courseId": "4",
+      "lessonId": "22",
+      "question": "In the Next.js App Router, which file defines the UI for a route?",
+      "code": null,
+      "type": "recall",
+      "difficulty": "easy",
+      "options": [
+        {
+          "id": "a",
+          "text": "index.html"
+        },
+        {
+          "id": "b",
+          "text": "route.css"
+        },
+        {
+          "id": "c",
+          "text": "main.tsx"
+        },
+        {
+          "id": "d",
+          "text": "page.tsx"
+        }
+      ],
+      "correctOptionId": "d",
+      "explanation": "A route becomes publicly accessible when it contains a page file, such as app/about/page.tsx."
+    },
+    {
+      "id": "quiz-q13",
+      "courseId": "4",
+      "lessonId": "23",
+      "question": "Which file wraps shared UI around child pages and stays mounted when navigating between them?",
+      "code": null,
+      "type": "concept",
+      "difficulty": "medium",
+      "options": [
+        {
+          "id": "a",
+          "text": "layout.tsx"
+        },
+        {
+          "id": "b",
+          "text": "loading.tsx"
+        },
+        {
+          "id": "c",
+          "text": "error.tsx"
+        },
+        {
+          "id": "d",
+          "text": "not-found.tsx"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "layout.tsx preserves state and does not re-render when navigating between sibling routes."
+    },
+    {
+      "id": "quiz-q14",
+      "courseId": "4",
+      "lessonId": "24",
+      "question": "What does this directive do?",
+      "code": "\"use client\";\n\nimport { useState } from \"react\";",
+      "type": "concept",
+      "difficulty": "medium",
+      "options": [
+        {
+          "id": "a",
+          "text": "Forces the page to be rendered only at build time"
+        },
+        {
+          "id": "b",
+          "text": "Marks the file as a Client Component so it can use state and browser APIs"
+        },
+        {
+          "id": "c",
+          "text": "Disables TypeScript checking in the file"
+        },
+        {
+          "id": "d",
+          "text": "Turns the component into an API route"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "In the App Router, components are Server Components by default. \"use client\" opts in to client-side interactivity such as useState."
+    },
+    {
+      "id": "quiz-q15",
+      "courseId": "4",
+      "lessonId": "25",
+      "question": "Why can this component use await directly?",
+      "code": "async function Page() {\n  const res = await fetch(\"https://api.example.com/posts\");\n  const posts = await res.json();\n  return <List posts={posts} />;\n}",
+      "type": "application",
+      "difficulty": "hard",
+      "options": [
+        {
+          "id": "a",
+          "text": "Because await works in any React component"
+        },
+        {
+          "id": "b",
+          "text": "Because fetch blocks the browser on purpose"
+        },
+        {
+          "id": "c",
+          "text": "Because it is a Server Component, and Server Components can be async"
+        },
+        {
+          "id": "d",
+          "text": "Because Next.js converts it into a class component"
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "Server Components can be async functions, so you can fetch data on the server without useEffect."
+    },
+    {
+      "id": "quiz-q16",
+      "courseId": "5",
+      "lessonId": "27",
+      "question": "What does visual hierarchy do in a design?",
+      "code": null,
+      "type": "concept",
+      "difficulty": "easy",
+      "options": [
+        {
+          "id": "a",
+          "text": "Makes every element the same size"
+        },
+        {
+          "id": "b",
+          "text": "Removes the need for contrast"
+        },
+        {
+          "id": "c",
+          "text": "Lets designers skip user research"
+        },
+        {
+          "id": "d",
+          "text": "Guides users' attention to the most important elements first"
+        }
+      ],
+      "correctOptionId": "d",
+      "explanation": "Size, color, contrast and spacing signal what matters most, so users scan the screen in the right order."
+    },
+    {
+      "id": "quiz-q17",
+      "courseId": "5",
+      "lessonId": "28",
+      "question": "Where are complementary colors located on the color wheel?",
+      "code": null,
+      "type": "recall",
+      "difficulty": "medium",
+      "options": [
+        {
+          "id": "a",
+          "text": "Directly opposite each other"
+        },
+        {
+          "id": "b",
+          "text": "Right next to each other"
+        },
+        {
+          "id": "c",
+          "text": "Three colors apart, forming a triangle"
+        },
+        {
+          "id": "d",
+          "text": "At the same position with different brightness"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Complementary pairs such as blue and orange sit opposite each other and create strong contrast."
+    },
+    {
+      "id": "quiz-q18",
+      "courseId": "5",
+      "lessonId": "30",
+      "question": "What is a wireframe?",
+      "code": null,
+      "type": "concept",
+      "difficulty": "easy",
+      "options": [
+        {
+          "id": "a",
+          "text": "A finished, pixel-perfect design"
+        },
+        {
+          "id": "b",
+          "text": "A low-fidelity layout that shows structure without final visuals"
+        },
+        {
+          "id": "c",
+          "text": "A coded prototype with real data"
+        },
+        {
+          "id": "d",
+          "text": "A style guide of brand colors"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Wireframes focus on layout and content placement before colors, images and typography are decided."
+    },
+    {
+      "id": "quiz-q19",
+      "courseId": "6",
+      "lessonId": "33",
+      "question": "What is the main aim of content marketing?",
+      "code": null,
+      "type": "concept",
+      "difficulty": "easy",
+      "options": [
+        {
+          "id": "a",
+          "text": "Interrupt people with repeated ads"
+        },
+        {
+          "id": "b",
+          "text": "Lower the price of every product"
+        },
+        {
+          "id": "c",
+          "text": "Attract and retain an audience with valuable, relevant content"
+        },
+        {
+          "id": "d",
+          "text": "Send as many messages as possible each day"
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "Content marketing builds trust and attracts customers by being useful, not by interrupting them."
+    },
+    {
+      "id": "quiz-q20",
+      "courseId": "6",
+      "lessonId": "35",
+      "question": "Which email metric shows the percentage of recipients who clicked a link?",
+      "code": null,
+      "type": "recall",
+      "difficulty": "medium",
+      "options": [
+        {
+          "id": "a",
+          "text": "Open rate"
+        },
+        {
+          "id": "b",
+          "text": "Unsubscribe rate"
+        },
+        {
+          "id": "c",
+          "text": "Bounce rate"
+        },
+        {
+          "id": "d",
+          "text": "Click-through rate (CTR)"
+        }
+      ],
+      "correctOptionId": "d",
+      "explanation": "CTR measures clicks relative to delivered emails. Open rate measures opens, not clicks."
+    },
+    {
+      "id": "quiz-q21",
+      "courseId": "6",
+      "lessonId": "36",
+      "question": "In Google Analytics, what is a session?",
+      "code": null,
+      "type": "concept",
+      "difficulty": "medium",
+      "options": [
+        {
+          "id": "a",
+          "text": "A group of a user's interactions with your site within a given time frame"
+        },
+        {
+          "id": "b",
+          "text": "A single page view"
+        },
+        {
+          "id": "c",
+          "text": "A registered user account"
+        },
+        {
+          "id": "d",
+          "text": "One click on an ad"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "A session bundles interactions such as page views and events that happen during one visit."
+    },
+    {
+      "id": "quiz-q22",
+      "courseId": "7",
+      "lessonId": "38",
+      "question": "What does this code print?",
+      "code": "print(type(3.14))",
+      "type": "application",
+      "difficulty": "easy",
+      "options": [
+        {
+          "id": "a",
+          "text": "<class 'int'>"
+        },
+        {
+          "id": "b",
+          "text": "<class 'float'>"
+        },
+        {
+          "id": "c",
+          "text": "<class 'str'>"
+        },
+        {
+          "id": "d",
+          "text": "<class 'decimal'>"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Numbers with a decimal point are floats in Python."
+    },
+    {
+      "id": "quiz-q23",
+      "courseId": "7",
+      "lessonId": "39",
+      "question": "What does this loop print?",
+      "code": "for i in range(3):\n    print(i)",
+      "type": "application",
+      "difficulty": "easy",
+      "options": [
+        {
+          "id": "a",
+          "text": "1, 2, 3"
+        },
+        {
+          "id": "b",
+          "text": "0, 1, 2, 3"
+        },
+        {
+          "id": "c",
+          "text": "0, 1, 2 (each on its own line)"
+        },
+        {
+          "id": "d",
+          "text": "3"
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "range(3) generates 0, 1, 2. The stop value is excluded."
+    },
+    {
+      "id": "quiz-q24",
+      "courseId": "7",
+      "lessonId": "41",
+      "question": "What does this code print?",
+      "code": "nums = [10, 20, 30]\nprint(nums[-1])",
+      "type": "application",
+      "difficulty": "medium",
+      "options": [
+        {
+          "id": "a",
+          "text": "10"
+        },
+        {
+          "id": "b",
+          "text": "20"
+        },
+        {
+          "id": "c",
+          "text": "IndexError"
+        },
+        {
+          "id": "d",
+          "text": "30"
+        }
+      ],
+      "correctOptionId": "d",
+      "explanation": "Negative indexes count from the end, so -1 is the last item."
+    },
+    {
+      "id": "quiz-q25",
+      "courseId": "8",
+      "lessonId": "44",
+      "question": "What happens with this code?",
+      "code": "let id: string | number;\nid = true;",
+      "type": "application",
+      "difficulty": "medium",
+      "options": [
+        {
+          "id": "a",
+          "text": "TypeScript reports an error because boolean is not assignable to string | number"
+        },
+        {
+          "id": "b",
+          "text": "It works and id becomes true"
+        },
+        {
+          "id": "c",
+          "text": "It converts true to the number 1"
+        },
+        {
+          "id": "d",
+          "text": "It throws an error only at runtime"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "A union type accepts only its listed members, and the check happens at compile time."
+    },
+    {
+      "id": "quiz-q26",
+      "courseId": "8",
+      "lessonId": "46",
+      "question": "What does T represent in this function?",
+      "code": "function identity<T>(value: T): T {\n  return value;\n}",
+      "type": "concept",
+      "difficulty": "medium",
+      "options": [
+        {
+          "id": "a",
+          "text": "A class named T"
+        },
+        {
+          "id": "b",
+          "text": "A type parameter that is set when the function is called"
+        },
+        {
+          "id": "c",
+          "text": "A string literal"
+        },
+        {
+          "id": "d",
+          "text": "A tuple type"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Generics let a function work with many types while keeping the relationship between input and output types."
+    },
+    {
+      "id": "quiz-q27",
+      "courseId": "8",
+      "lessonId": "47",
+      "question": "What does Partial<User> do?",
+      "code": "interface User {\n  name: string;\n  age: number;\n}\n\ntype Draft = Partial<User>;",
+      "type": "concept",
+      "difficulty": "medium",
+      "options": [
+        {
+          "id": "a",
+          "text": "Removes all properties from User"
+        },
+        {
+          "id": "b",
+          "text": "Makes all properties readonly"
+        },
+        {
+          "id": "c",
+          "text": "Makes all properties of User optional"
+        },
+        {
+          "id": "d",
+          "text": "Makes all properties required"
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "Partial<T> builds a type where every property of T is optional, which is useful for update payloads."
+    },
+    {
+      "id": "quiz-q28",
+      "courseId": "9",
+      "lessonId": "49",
+      "question": "Which semantic HTML element is meant for the main navigation links of a page?",
+      "code": null,
+      "type": "recall",
+      "difficulty": "easy",
+      "options": [
+        {
+          "id": "a",
+          "text": "<section>"
+        },
+        {
+          "id": "b",
+          "text": "<aside>"
+        },
+        {
+          "id": "c",
+          "text": "<div>"
+        },
+        {
+          "id": "d",
+          "text": "<nav>"
+        }
+      ],
+      "correctOptionId": "d",
+      "explanation": "<nav> tells browsers and assistive technology that the block contains navigation links. <div> has no meaning."
+    },
+    {
+      "id": "quiz-q29",
+      "courseId": "9",
+      "lessonId": "51",
+      "question": "In the CSS box model, which order lists the layers from the inside out?",
+      "code": null,
+      "type": "recall",
+      "difficulty": "medium",
+      "options": [
+        {
+          "id": "a",
+          "text": "Content, padding, border, margin"
+        },
+        {
+          "id": "b",
+          "text": "Content, margin, border, padding"
+        },
+        {
+          "id": "c",
+          "text": "Margin, border, padding, content"
+        },
+        {
+          "id": "d",
+          "text": "Border, content, padding, margin"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Content sits in the middle, surrounded by padding, then the border, then the outer margin."
+    },
+    {
+      "id": "quiz-q30",
+      "courseId": "9",
+      "lessonId": "53",
+      "question": "What does this CSS create?",
+      "code": "display: grid;\ngrid-template-columns: repeat(3, 1fr);",
+      "type": "application",
+      "difficulty": "medium",
+      "options": [
+        {
+          "id": "a",
+          "text": "Three rows of equal height"
+        },
+        {
+          "id": "b",
+          "text": "Three equal-width columns"
+        },
+        {
+          "id": "c",
+          "text": "One column that is three times wider"
+        },
+        {
+          "id": "d",
+          "text": "A flex row with three items"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "repeat(3, 1fr) defines three columns that share the available width equally."
+    },
+    {
+      "id": "quiz-q31",
+      "courseId": "10",
+      "lessonId": "57",
+      "question": "What will this route send for a request to /users/42?",
+      "code": "app.get(\"/users/:id\", (req, res) => {\n  res.send(req.params.id);\n});",
+      "type": "application",
+      "difficulty": "medium",
+      "options": [
+        {
+          "id": "a",
+          "text": "/users/42"
+        },
+        {
+          "id": "b",
+          "text": ":id"
+        },
+        {
+          "id": "c",
+          "text": "42"
+        },
+        {
+          "id": "d",
+          "text": "undefined"
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "The :id segment is a route parameter available on req.params, so req.params.id is the string \"42\"."
+    },
+    {
+      "id": "quiz-q32",
+      "courseId": "10",
+      "lessonId": "58",
+      "question": "What must a middleware function call to pass control to the next handler?",
+      "code": null,
+      "type": "recall",
+      "difficulty": "medium",
+      "options": [
+        {
+          "id": "a",
+          "text": "res.pass()"
+        },
+        {
+          "id": "b",
+          "text": "app.continue()"
+        },
+        {
+          "id": "c",
+          "text": "return true"
+        },
+        {
+          "id": "d",
+          "text": "next()"
+        }
+      ],
+      "correctOptionId": "d",
+      "explanation": "Unless it ends the response, middleware must call next(), otherwise the request hangs."
+    },
+    {
+      "id": "quiz-q33",
+      "courseId": "10",
+      "lessonId": "59",
+      "question": "Which HTTP method is conventionally used to create a new resource in a REST API?",
+      "code": null,
+      "type": "recall",
+      "difficulty": "easy",
+      "options": [
+        {
+          "id": "a",
+          "text": "POST"
+        },
+        {
+          "id": "b",
+          "text": "GET"
+        },
+        {
+          "id": "c",
+          "text": "DELETE"
+        },
+        {
+          "id": "d",
+          "text": "HEAD"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "POST creates a resource, GET reads, PUT/PATCH update and DELETE removes."
+    },
+    {
+      "id": "quiz-q34",
+      "courseId": "11",
+      "lessonId": "62",
+      "question": "What does this query return?",
+      "code": "SELECT name FROM students WHERE age > 18;",
+      "type": "application",
+      "difficulty": "easy",
+      "options": [
+        {
+          "id": "a",
+          "text": "All columns for every student"
+        },
+        {
+          "id": "b",
+          "text": "The names of students older than 18"
+        },
+        {
+          "id": "c",
+          "text": "The number of students older than 18"
+        },
+        {
+          "id": "d",
+          "text": "Students whose name is 18"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "SELECT picks the name column and WHERE keeps only rows where age is greater than 18."
+    },
+    {
+      "id": "quiz-q35",
+      "courseId": "11",
+      "lessonId": "63",
+      "question": "What does an INNER JOIN return?",
+      "code": null,
+      "type": "concept",
+      "difficulty": "medium",
+      "options": [
+        {
+          "id": "a",
+          "text": "All rows from the left table, matched or not"
+        },
+        {
+          "id": "b",
+          "text": "All rows from both tables"
+        },
+        {
+          "id": "c",
+          "text": "Only rows with matching values in both tables"
+        },
+        {
+          "id": "d",
+          "text": "Every combination of rows from both tables"
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "The second option describes a LEFT JOIN and the last one a CROSS JOIN."
+    },
+    {
+      "id": "quiz-q36",
+      "courseId": "11",
+      "lessonId": "64",
+      "question": "Which clause filters groups after a GROUP BY?",
+      "code": null,
+      "type": "recall",
+      "difficulty": "medium",
+      "options": [
+        {
+          "id": "a",
+          "text": "WHERE"
+        },
+        {
+          "id": "b",
+          "text": "ORDER BY"
+        },
+        {
+          "id": "c",
+          "text": "LIMIT"
+        },
+        {
+          "id": "d",
+          "text": "HAVING"
+        }
+      ],
+      "correctOptionId": "d",
+      "explanation": "WHERE filters rows before grouping. HAVING filters the aggregated groups."
+    },
+    {
+      "id": "quiz-q37",
+      "courseId": "11",
+      "lessonId": "65",
+      "question": "What is the main purpose of database normalization?",
+      "code": null,
+      "type": "concept",
+      "difficulty": "medium",
+      "options": [
+        {
+          "id": "a",
+          "text": "Reduce data redundancy and improve data integrity"
+        },
+        {
+          "id": "b",
+          "text": "Store all data in a single large table"
+        },
+        {
+          "id": "c",
+          "text": "Encrypt data at rest"
+        },
+        {
+          "id": "d",
+          "text": "Remove the need for primary keys"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Normalization splits data into related tables so each fact is stored once."
+    },
+    {
+      "id": "quiz-q38",
+      "courseId": "12",
+      "lessonId": "69",
+      "question": "Which command creates a new branch and switches to it?",
+      "code": null,
+      "type": "recall",
+      "difficulty": "easy",
+      "options": [
+        {
+          "id": "a",
+          "text": "git branch -d feature"
+        },
+        {
+          "id": "b",
+          "text": "git checkout -b feature"
+        },
+        {
+          "id": "c",
+          "text": "git merge feature"
+        },
+        {
+          "id": "d",
+          "text": "git clone feature"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "git checkout -b creates and switches in one step. git switch -c feature does the same in newer Git versions."
+    },
+    {
+      "id": "quiz-q39",
+      "courseId": "12",
+      "lessonId": "70",
+      "question": "What does this command do?",
+      "code": "git push origin main",
+      "type": "application",
+      "difficulty": "medium",
+      "options": [
+        {
+          "id": "a",
+          "text": "Downloads new commits from origin"
+        },
+        {
+          "id": "b",
+          "text": "Creates a new branch called origin"
+        },
+        {
+          "id": "c",
+          "text": "Uploads your local main commits to the remote named origin"
+        },
+        {
+          "id": "d",
+          "text": "Merges origin into main locally"
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "git push sends your local commits to the given remote and branch."
+    },
+    {
+      "id": "quiz-q40",
+      "courseId": "12",
+      "lessonId": "72",
+      "question": "In a conflicted file, what does the part between <<<<<<< HEAD and ======= represent?",
+      "code": "<<<<<<< HEAD\nconst title = \"Home\";\n=======\nconst title = \"Welcome\";\n>>>>>>> feature",
+      "type": "application",
+      "difficulty": "medium",
+      "options": [
+        {
+          "id": "a",
+          "text": "The incoming branch's version"
+        },
+        {
+          "id": "b",
+          "text": "The common ancestor version"
+        },
+        {
+          "id": "c",
+          "text": "A deleted file"
+        },
+        {
+          "id": "d",
+          "text": "Your current branch's version of the conflicting lines"
+        }
+      ],
+      "correctOptionId": "d",
+      "explanation": "Above ======= is HEAD (your current branch). Below it is the incoming change from the other branch."
+    },
+    {
+      "id": "quiz-q41",
+      "courseId": "13",
+      "lessonId": "73",
+      "question": "What is a key difference between containers and virtual machines?",
+      "code": null,
+      "type": "concept",
+      "difficulty": "medium",
+      "options": [
+        {
+          "id": "a",
+          "text": "Containers share the host OS kernel, while VMs run a full guest OS"
+        },
+        {
+          "id": "b",
+          "text": "Containers always run a full guest operating system"
+        },
+        {
+          "id": "c",
+          "text": "VMs start faster than containers"
+        },
+        {
+          "id": "d",
+          "text": "Only one container can run per host"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Sharing the kernel makes containers lighter and faster to start than VMs."
+    },
+    {
+      "id": "quiz-q42",
+      "courseId": "13",
+      "lessonId": "75",
+      "question": "What does -p 8080:80 do in this command?",
+      "code": "docker run -d -p 8080:80 nginx",
+      "type": "application",
+      "difficulty": "medium",
+      "options": [
+        {
+          "id": "a",
+          "text": "Maps port 80 on the host to port 8080 in the container"
+        },
+        {
+          "id": "b",
+          "text": "Maps port 8080 on the host to port 80 in the container"
+        },
+        {
+          "id": "c",
+          "text": "Limits the container to 8080 MB of memory"
+        },
+        {
+          "id": "d",
+          "text": "Starts 80 copies of the container"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "The format is host_port:container_port."
+    },
+    {
+      "id": "quiz-q43",
+      "courseId": "13",
+      "lessonId": "76",
+      "question": "Why use a Docker volume?",
+      "code": null,
+      "type": "concept",
+      "difficulty": "medium",
+      "options": [
+        {
+          "id": "a",
+          "text": "To make the image smaller"
+        },
+        {
+          "id": "b",
+          "text": "To encrypt network traffic"
+        },
+        {
+          "id": "c",
+          "text": "To persist data beyond the lifetime of a container"
+        },
+        {
+          "id": "d",
+          "text": "To give the container more CPU"
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "Data inside a container's writable layer is lost when it is removed. Volumes keep it."
+    },
+    {
+      "id": "quiz-q44",
+      "courseId": "13",
+      "lessonId": "77",
+      "question": "What is Docker Compose mainly used for?",
+      "code": null,
+      "type": "concept",
+      "difficulty": "medium",
+      "options": [
+        {
+          "id": "a",
+          "text": "Building a single image without a Dockerfile"
+        },
+        {
+          "id": "b",
+          "text": "Monitoring host CPU usage"
+        },
+        {
+          "id": "c",
+          "text": "Replacing the Docker daemon"
+        },
+        {
+          "id": "d",
+          "text": "Defining and running multi-container applications from a YAML file"
+        }
+      ],
+      "correctOptionId": "d",
+      "explanation": "A compose file describes services, networks and volumes so an app starts with one command."
+    },
+    {
+      "id": "quiz-q45",
+      "courseId": "14",
+      "lessonId": "80",
+      "question": "What does the p-4 class do?",
+      "code": "<div class=\"p-4\">Card</div>",
+      "type": "application",
+      "difficulty": "easy",
+      "options": [
+        {
+          "id": "a",
+          "text": "Adds padding of 1rem (16px) on all sides"
+        },
+        {
+          "id": "b",
+          "text": "Adds a margin of 4px"
+        },
+        {
+          "id": "c",
+          "text": "Sets the font size to 4 points"
+        },
+        {
+          "id": "d",
+          "text": "Makes the element 4 columns wide"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "In default Tailwind, one spacing step is 0.25rem, so 4 equals 1rem."
+    },
+    {
+      "id": "quiz-q46",
+      "courseId": "14",
+      "lessonId": "83",
+      "question": "When does md:flex apply display: flex?",
+      "code": "<div class=\"block md:flex\">...</div>",
+      "type": "application",
+      "difficulty": "medium",
+      "options": [
+        {
+          "id": "a",
+          "text": "Only on screens narrower than 768px"
+        },
+        {
+          "id": "b",
+          "text": "At the medium breakpoint (768px) and wider"
+        },
+        {
+          "id": "c",
+          "text": "Only when the user hovers"
+        },
+        {
+          "id": "d",
+          "text": "Only in print mode"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Tailwind is mobile-first: unprefixed utilities apply everywhere, prefixed ones from that breakpoint up."
+    },
+    {
+      "id": "quiz-q47",
+      "courseId": "14",
+      "lessonId": "84",
+      "question": "Which prefix makes a utility apply only in dark mode?",
+      "code": null,
+      "type": "recall",
+      "difficulty": "easy",
+      "options": [
+        {
+          "id": "a",
+          "text": "night:"
+        },
+        {
+          "id": "b",
+          "text": "mode-dark:"
+        },
+        {
+          "id": "c",
+          "text": "dark:"
+        },
+        {
+          "id": "d",
+          "text": "theme:"
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "Example: dark:bg-gray-900 applies the background only when dark mode is active."
+    },
+    {
+      "id": "quiz-q48",
+      "courseId": "15",
+      "lessonId": "86",
+      "question": "What does this code print?",
+      "code": "import numpy as np\n\narr = np.array([1, 2, 3])\nprint(arr * 2)",
+      "type": "application",
+      "difficulty": "medium",
+      "options": [
+        {
+          "id": "a",
+          "text": "[1 2 3 1 2 3]"
+        },
+        {
+          "id": "b",
+          "text": "[1 2 3 2]"
+        },
+        {
+          "id": "c",
+          "text": "TypeError"
+        },
+        {
+          "id": "d",
+          "text": "[2 4 6]"
+        }
+      ],
+      "correctOptionId": "d",
+      "explanation": "NumPy applies operations element-wise. A plain Python list [1, 2, 3] * 2 would repeat the list instead."
+    },
+    {
+      "id": "quiz-q49",
+      "courseId": "15",
+      "lessonId": "87",
+      "question": "What does df.head() return by default?",
+      "code": null,
+      "type": "recall",
+      "difficulty": "easy",
+      "options": [
+        {
+          "id": "a",
+          "text": "The first 5 rows of the DataFrame"
+        },
+        {
+          "id": "b",
+          "text": "The column names only"
+        },
+        {
+          "id": "c",
+          "text": "The last 5 rows"
+        },
+        {
+          "id": "d",
+          "text": "A summary of statistics"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "head() shows the first 5 rows. tail() shows the last ones and describe() gives statistics."
+    },
+    {
+      "id": "quiz-q50",
+      "courseId": "15",
+      "lessonId": "88",
+      "question": "What does this code do?",
+      "code": "df = df.dropna()",
+      "type": "application",
+      "difficulty": "medium",
+      "options": [
+        {
+          "id": "a",
+          "text": "Fills missing values with zero"
+        },
+        {
+          "id": "b",
+          "text": "Removes rows that contain missing values"
+        },
+        {
+          "id": "c",
+          "text": "Deletes all columns"
+        },
+        {
+          "id": "d",
+          "text": "Drops duplicate rows"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "dropna() removes rows with NaN values. fillna() fills them and drop_duplicates() removes duplicates."
+    },
+    {
+      "id": "quiz-q51",
+      "courseId": "16",
+      "lessonId": "92",
+      "question": "Which kind of problem is linear regression designed for?",
+      "code": null,
+      "type": "concept",
+      "difficulty": "easy",
+      "options": [
+        {
+          "id": "a",
+          "text": "Assigning an email to spam or not spam"
+        },
+        {
+          "id": "b",
+          "text": "Grouping customers without labels"
+        },
+        {
+          "id": "c",
+          "text": "Predicting a continuous numeric value, such as a house price"
+        },
+        {
+          "id": "d",
+          "text": "Choosing the best chess move"
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "Regression predicts numbers. Classification predicts categories."
+    },
+    {
+      "id": "quiz-q52",
+      "courseId": "16",
+      "lessonId": "93",
+      "question": "Which of these is a classification task?",
+      "code": null,
+      "type": "concept",
+      "difficulty": "easy",
+      "options": [
+        {
+          "id": "a",
+          "text": "Predicting tomorrow's temperature in degrees"
+        },
+        {
+          "id": "b",
+          "text": "Estimating a house's price"
+        },
+        {
+          "id": "c",
+          "text": "Forecasting next month's sales amount"
+        },
+        {
+          "id": "d",
+          "text": "Predicting whether a customer will churn (yes or no)"
+        }
+      ],
+      "correctOptionId": "d",
+      "explanation": "Classification predicts discrete categories. The others predict continuous numbers."
+    },
+    {
+      "id": "quiz-q53",
+      "courseId": "16",
+      "lessonId": "95",
+      "question": "Why do we split data into training and test sets?",
+      "code": null,
+      "type": "concept",
+      "difficulty": "medium",
+      "options": [
+        {
+          "id": "a",
+          "text": "To evaluate the model on data it has not seen during training"
+        },
+        {
+          "id": "b",
+          "text": "To make training faster"
+        },
+        {
+          "id": "c",
+          "text": "To remove outliers"
+        },
+        {
+          "id": "d",
+          "text": "To increase the amount of data"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Testing on unseen data gives an honest estimate of how the model performs in the real world."
+    },
+    {
+      "id": "quiz-q54",
+      "courseId": "16",
+      "lessonId": "96",
+      "question": "What is overfitting?",
+      "code": null,
+      "type": "concept",
+      "difficulty": "hard",
+      "options": [
+        {
+          "id": "a",
+          "text": "A model that is too simple to capture patterns"
+        },
+        {
+          "id": "b",
+          "text": "A model fits the training data very well but performs poorly on new data"
+        },
+        {
+          "id": "c",
+          "text": "A model that trains too quickly"
+        },
+        {
+          "id": "d",
+          "text": "A model trained on too many examples"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Overfitting means memorizing noise in the training data. The second option describes underfitting."
+    },
+    {
+      "id": "quiz-q55",
+      "courseId": "17",
+      "lessonId": "97",
+      "question": "Which Dart keyword declares a variable that can be assigned only once?",
+      "code": null,
+      "type": "recall",
+      "difficulty": "medium",
+      "options": [
+        {
+          "id": "a",
+          "text": "var"
+        },
+        {
+          "id": "b",
+          "text": "dynamic"
+        },
+        {
+          "id": "c",
+          "text": "final"
+        },
+        {
+          "id": "d",
+          "text": "static"
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "final variables are set once at runtime. const creates compile-time constants, and var can be reassigned."
+    },
+    {
+      "id": "quiz-q56",
+      "courseId": "17",
+      "lessonId": "98",
+      "question": "Which widget type should you use when part of the UI must change after user interaction?",
+      "code": null,
+      "type": "concept",
+      "difficulty": "easy",
+      "options": [
+        {
+          "id": "a",
+          "text": "StatelessWidget"
+        },
+        {
+          "id": "b",
+          "text": "Scaffold"
+        },
+        {
+          "id": "c",
+          "text": "Container"
+        },
+        {
+          "id": "d",
+          "text": "StatefulWidget"
+        }
+      ],
+      "correctOptionId": "d",
+      "explanation": "StatefulWidget holds mutable state and rebuilds when setState is called. StatelessWidget never changes by itself."
+    },
+    {
+      "id": "quiz-q57",
+      "courseId": "17",
+      "lessonId": "99",
+      "question": "What does this code do?",
+      "code": "Navigator.push(\n  context,\n  MaterialPageRoute(builder: (_) => const DetailsPage()),\n);",
+      "type": "application",
+      "difficulty": "medium",
+      "options": [
+        {
+          "id": "a",
+          "text": "Pushes DetailsPage onto the navigation stack so it appears on top"
+        },
+        {
+          "id": "b",
+          "text": "Clears the whole history and shows DetailsPage"
+        },
+        {
+          "id": "c",
+          "text": "Removes the current screen from memory"
+        },
+        {
+          "id": "d",
+          "text": "Opens DetailsPage in a new app window"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "push adds a route to the stack, and Navigator.pop returns to the previous screen."
+    },
+    {
+      "id": "quiz-q58",
+      "courseId": "18",
+      "lessonId": "103",
+      "question": "What do the letters in the CIA triad stand for?",
+      "code": null,
+      "type": "recall",
+      "difficulty": "easy",
+      "options": [
+        {
+          "id": "a",
+          "text": "Control, Identity, Access"
+        },
+        {
+          "id": "b",
+          "text": "Confidentiality, Integrity, Availability"
+        },
+        {
+          "id": "c",
+          "text": "Cryptography, Isolation, Authentication"
+        },
+        {
+          "id": "d",
+          "text": "Confidentiality, Inspection, Authorization"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "The CIA triad is the core model of information security."
+    },
+    {
+      "id": "quiz-q59",
+      "courseId": "18",
+      "lessonId": "104",
+      "question": "What is phishing?",
+      "code": null,
+      "type": "concept",
+      "difficulty": "easy",
+      "options": [
+        {
+          "id": "a",
+          "text": "Overloading a server with traffic"
+        },
+        {
+          "id": "b",
+          "text": "Guessing passwords with every possible combination"
+        },
+        {
+          "id": "c",
+          "text": "Tricking people into revealing sensitive information through fake messages or sites"
+        },
+        {
+          "id": "d",
+          "text": "Encrypting files and demanding payment"
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "The other options describe a DDoS attack, brute force and ransomware."
+    },
+    {
+      "id": "quiz-q60",
+      "courseId": "18",
+      "lessonId": "106",
+      "question": "Which statement about asymmetric encryption is true?",
+      "code": null,
+      "type": "concept",
+      "difficulty": "medium",
+      "options": [
+        {
+          "id": "a",
+          "text": "It uses the same key to encrypt and decrypt"
+        },
+        {
+          "id": "b",
+          "text": "It never needs keys"
+        },
+        {
+          "id": "c",
+          "text": "It is only used for hashing passwords"
+        },
+        {
+          "id": "d",
+          "text": "It uses a public key and a private key pair"
+        }
+      ],
+      "correctOptionId": "d",
+      "explanation": "Data encrypted with a public key can only be decrypted with the matching private key."
+    },
+    {
+      "id": "quiz-q61",
+      "courseId": "19",
+      "lessonId": "111",
+      "question": "What does the inverted pyramid structure recommend?",
+      "code": null,
+      "type": "concept",
+      "difficulty": "medium",
+      "options": [
+        {
+          "id": "a",
+          "text": "Put the most important information first, then supporting details"
+        },
+        {
+          "id": "b",
+          "text": "Start with background and save the key point for the end"
+        },
+        {
+          "id": "c",
+          "text": "Use the longest paragraphs at the top"
+        },
+        {
+          "id": "d",
+          "text": "Place the call to action only in the title"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Readers get the key message immediately, even if they stop reading early."
+    },
+    {
+      "id": "quiz-q62",
+      "courseId": "19",
+      "lessonId": "112",
+      "question": "What does the AIDA copywriting model stand for?",
+      "code": null,
+      "type": "recall",
+      "difficulty": "easy",
+      "options": [
+        {
+          "id": "a",
+          "text": "Awareness, Intent, Decision, Acquisition"
+        },
+        {
+          "id": "b",
+          "text": "Attention, Interest, Desire, Action"
+        },
+        {
+          "id": "c",
+          "text": "Audience, Idea, Draft, Approval"
+        },
+        {
+          "id": "d",
+          "text": "Attract, Inform, Deliver, Analyze"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "AIDA guides readers from noticing the message to taking action."
+    },
+    {
+      "id": "quiz-q63",
+      "courseId": "19",
+      "lessonId": "114",
+      "question": "Where should you naturally include your primary keyword when writing for SEO?",
+      "code": null,
+      "type": "application",
+      "difficulty": "medium",
+      "options": [
+        {
+          "id": "a",
+          "text": "Repeated as many times as possible in every sentence"
+        },
+        {
+          "id": "b",
+          "text": "Only in the footer"
+        },
+        {
+          "id": "c",
+          "text": "In the title, early in the introduction and in relevant headings"
+        },
+        {
+          "id": "d",
+          "text": "Only in image file names"
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "Natural placement in prominent spots helps. Keyword stuffing hurts readers and rankings."
+    },
+    {
+      "id": "quiz-q64",
+      "courseId": "20",
+      "lessonId": "116",
+      "question": "What does Auto Layout do in Figma?",
+      "code": null,
+      "type": "concept",
+      "difficulty": "medium",
+      "options": [
+        {
+          "id": "a",
+          "text": "Automatically generates code for developers"
+        },
+        {
+          "id": "b",
+          "text": "Exports designs as PDFs"
+        },
+        {
+          "id": "c",
+          "text": "Locks all layers in place"
+        },
+        {
+          "id": "d",
+          "text": "Makes a frame automatically resize and space its children as content changes"
+        }
+      ],
+      "correctOptionId": "d",
+      "explanation": "Auto Layout works like flexbox: spacing, padding and direction adapt as content is added or removed."
+    },
+    {
+      "id": "quiz-q65",
+      "courseId": "20",
+      "lessonId": "117",
+      "question": "What happens to instances when you edit their main component?",
+      "code": null,
+      "type": "concept",
+      "difficulty": "medium",
+      "options": [
+        {
+          "id": "a",
+          "text": "The changes propagate to all instances"
+        },
+        {
+          "id": "b",
+          "text": "Nothing, instances never change"
+        },
+        {
+          "id": "c",
+          "text": "Only the first instance changes"
+        },
+        {
+          "id": "d",
+          "text": "The instances are deleted"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Instances stay linked to the main component, except for properties you have overridden."
+    },
+    {
+      "id": "quiz-q66",
+      "courseId": "20",
+      "lessonId": "119",
+      "question": "What do you create to make a prototype interactive in Figma?",
+      "code": null,
+      "type": "application",
+      "difficulty": "easy",
+      "options": [
+        {
+          "id": "a",
+          "text": "A new page for each frame"
+        },
+        {
+          "id": "b",
+          "text": "Connections between frames with an interaction such as On click"
+        },
+        {
+          "id": "c",
+          "text": "A plugin for each button"
+        },
+        {
+          "id": "d",
+          "text": "A variable for each color"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "In Prototype mode you link frames and choose a trigger and an action, for example On click, Navigate to."
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
